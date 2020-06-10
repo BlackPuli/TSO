@@ -1,0 +1,7005 @@
+{
+    "Solucion": {
+        "122": {
+            "peso": 59,
+            "procesamiento": 989,
+            "tiempolimite": 1000,
+            "Tardanza": 0,
+            "TiempoAcabado": 989
+        },
+        "255": {
+            "peso": 87,
+            "procesamiento": 435,
+            "tiempolimite": 1000,
+            "Tardanza": 424,
+            "TiempoAcabado": 1424
+        },
+        "476": {
+            "peso": 10,
+            "procesamiento": 455,
+            "tiempolimite": 1000,
+            "Tardanza": 879,
+            "TiempoAcabado": 1879
+        },
+        "684": {
+            "peso": 78,
+            "procesamiento": 298,
+            "tiempolimite": 1001,
+            "Tardanza": 1176,
+            "TiempoAcabado": 2177
+        },
+        "804": {
+            "peso": 77,
+            "procesamiento": 560,
+            "tiempolimite": 1002,
+            "Tardanza": 1735,
+            "TiempoAcabado": 2737
+        },
+        "848": {
+            "peso": 29,
+            "procesamiento": 240,
+            "tiempolimite": 1002,
+            "Tardanza": 1975,
+            "TiempoAcabado": 2977
+        },
+        "62": {
+            "peso": 69,
+            "procesamiento": 963,
+            "tiempolimite": 1005,
+            "Tardanza": 2935,
+            "TiempoAcabado": 3940
+        },
+        "226": {
+            "peso": 4,
+            "procesamiento": 899,
+            "tiempolimite": 1005,
+            "Tardanza": 3834,
+            "TiempoAcabado": 4839
+        },
+        "252": {
+            "peso": 22,
+            "procesamiento": 867,
+            "tiempolimite": 1005,
+            "Tardanza": 4701,
+            "TiempoAcabado": 5706
+        },
+        "387": {
+            "peso": 41,
+            "procesamiento": 198,
+            "tiempolimite": 1005,
+            "Tardanza": 4899,
+            "TiempoAcabado": 5904
+        },
+        "393": {
+            "peso": 52,
+            "procesamiento": 603,
+            "tiempolimite": 1005,
+            "Tardanza": 5502,
+            "TiempoAcabado": 6507
+        },
+        "691": {
+            "peso": 78,
+            "procesamiento": 478,
+            "tiempolimite": 1005,
+            "Tardanza": 5980,
+            "TiempoAcabado": 6985
+        },
+        "462": {
+            "peso": 41,
+            "procesamiento": 99,
+            "tiempolimite": 1006,
+            "Tardanza": 6078,
+            "TiempoAcabado": 7084
+        },
+        "917": {
+            "peso": 99,
+            "procesamiento": 897,
+            "tiempolimite": 1006,
+            "Tardanza": 6975,
+            "TiempoAcabado": 7981
+        },
+        "992": {
+            "peso": 17,
+            "procesamiento": 501,
+            "tiempolimite": 1006,
+            "Tardanza": 7476,
+            "TiempoAcabado": 8482
+        },
+        "49": {
+            "peso": 77,
+            "procesamiento": 81,
+            "tiempolimite": 1007,
+            "Tardanza": 7556,
+            "TiempoAcabado": 8563
+        },
+        "184": {
+            "peso": 56,
+            "procesamiento": 493,
+            "tiempolimite": 1007,
+            "Tardanza": 8049,
+            "TiempoAcabado": 9056
+        },
+        "589": {
+            "peso": 95,
+            "procesamiento": 108,
+            "tiempolimite": 1007,
+            "Tardanza": 8157,
+            "TiempoAcabado": 9164
+        },
+        "41": {
+            "peso": 69,
+            "procesamiento": 347,
+            "tiempolimite": 1008,
+            "Tardanza": 8503,
+            "TiempoAcabado": 9511
+        },
+        "655": {
+            "peso": 26,
+            "procesamiento": 710,
+            "tiempolimite": 1008,
+            "Tardanza": 9213,
+            "TiempoAcabado": 10221
+        },
+        "33": {
+            "peso": 52,
+            "procesamiento": 796,
+            "tiempolimite": 1009,
+            "Tardanza": 10008,
+            "TiempoAcabado": 11017
+        },
+        "363": {
+            "peso": 82,
+            "procesamiento": 642,
+            "tiempolimite": 1009,
+            "Tardanza": 10650,
+            "TiempoAcabado": 11659
+        },
+        "778": {
+            "peso": 31,
+            "procesamiento": 215,
+            "tiempolimite": 1009,
+            "Tardanza": 10865,
+            "TiempoAcabado": 11874
+        },
+        "834": {
+            "peso": 95,
+            "procesamiento": 545,
+            "tiempolimite": 1009,
+            "Tardanza": 11410,
+            "TiempoAcabado": 12419
+        },
+        "1": {
+            "peso": 46,
+            "procesamiento": 809,
+            "tiempolimite": 1010,
+            "Tardanza": 12218,
+            "TiempoAcabado": 13228
+        },
+        "190": {
+            "peso": 69,
+            "procesamiento": 715,
+            "tiempolimite": 1010,
+            "Tardanza": 12933,
+            "TiempoAcabado": 13943
+        },
+        "313": {
+            "peso": 13,
+            "procesamiento": 919,
+            "tiempolimite": 1010,
+            "Tardanza": 13852,
+            "TiempoAcabado": 14862
+        },
+        "215": {
+            "peso": 11,
+            "procesamiento": 280,
+            "tiempolimite": 1011,
+            "Tardanza": 14131,
+            "TiempoAcabado": 15142
+        },
+        "536": {
+            "peso": 96,
+            "procesamiento": 720,
+            "tiempolimite": 1011,
+            "Tardanza": 14851,
+            "TiempoAcabado": 15862
+        },
+        "814": {
+            "peso": 2,
+            "procesamiento": 453,
+            "tiempolimite": 1011,
+            "Tardanza": 15304,
+            "TiempoAcabado": 16315
+        },
+        "48": {
+            "peso": 87,
+            "procesamiento": 72,
+            "tiempolimite": 1012,
+            "Tardanza": 15375,
+            "TiempoAcabado": 16387
+        },
+        "288": {
+            "peso": 99,
+            "procesamiento": 306,
+            "tiempolimite": 1012,
+            "Tardanza": 15681,
+            "TiempoAcabado": 16693
+        },
+        "942": {
+            "peso": 2,
+            "procesamiento": 470,
+            "tiempolimite": 1012,
+            "Tardanza": 16151,
+            "TiempoAcabado": 17163
+        },
+        "78": {
+            "peso": 19,
+            "procesamiento": 401,
+            "tiempolimite": 1013,
+            "Tardanza": 16551,
+            "TiempoAcabado": 17564
+        },
+        "162": {
+            "peso": 52,
+            "procesamiento": 280,
+            "tiempolimite": 1013,
+            "Tardanza": 16831,
+            "TiempoAcabado": 17844
+        },
+        "578": {
+            "peso": 44,
+            "procesamiento": 565,
+            "tiempolimite": 1014,
+            "Tardanza": 17395,
+            "TiempoAcabado": 18409
+        },
+        "359": {
+            "peso": 18,
+            "procesamiento": 785,
+            "tiempolimite": 1016,
+            "Tardanza": 18178,
+            "TiempoAcabado": 19194
+        },
+        "499": {
+            "peso": 59,
+            "procesamiento": 818,
+            "tiempolimite": 1017,
+            "Tardanza": 18995,
+            "TiempoAcabado": 20012
+        },
+        "720": {
+            "peso": 93,
+            "procesamiento": 586,
+            "tiempolimite": 1017,
+            "Tardanza": 19581,
+            "TiempoAcabado": 20598
+        },
+        "772": {
+            "peso": 43,
+            "procesamiento": 127,
+            "tiempolimite": 1017,
+            "Tardanza": 19708,
+            "TiempoAcabado": 20725
+        },
+        "477": {
+            "peso": 73,
+            "procesamiento": 612,
+            "tiempolimite": 1018,
+            "Tardanza": 20319,
+            "TiempoAcabado": 21337
+        },
+        "903": {
+            "peso": 13,
+            "procesamiento": 657,
+            "tiempolimite": 1018,
+            "Tardanza": 20976,
+            "TiempoAcabado": 21994
+        },
+        "326": {
+            "peso": 84,
+            "procesamiento": 221,
+            "tiempolimite": 1019,
+            "Tardanza": 21196,
+            "TiempoAcabado": 22215
+        },
+        "839": {
+            "peso": 26,
+            "procesamiento": 268,
+            "tiempolimite": 1019,
+            "Tardanza": 21464,
+            "TiempoAcabado": 22483
+        },
+        "80": {
+            "peso": 25,
+            "procesamiento": 786,
+            "tiempolimite": 1020,
+            "Tardanza": 22249,
+            "TiempoAcabado": 23269
+        },
+        "522": {
+            "peso": 98,
+            "procesamiento": 852,
+            "tiempolimite": 1021,
+            "Tardanza": 23100,
+            "TiempoAcabado": 24121
+        },
+        "993": {
+            "peso": 60,
+            "procesamiento": 357,
+            "tiempolimite": 1021,
+            "Tardanza": 23457,
+            "TiempoAcabado": 24478
+        },
+        "501": {
+            "peso": 89,
+            "procesamiento": 341,
+            "tiempolimite": 1022,
+            "Tardanza": 23797,
+            "TiempoAcabado": 24819
+        },
+        "577": {
+            "peso": 42,
+            "procesamiento": 198,
+            "tiempolimite": 1022,
+            "Tardanza": 23995,
+            "TiempoAcabado": 25017
+        },
+        "826": {
+            "peso": 49,
+            "procesamiento": 503,
+            "tiempolimite": 1022,
+            "Tardanza": 24498,
+            "TiempoAcabado": 25520
+        },
+        "952": {
+            "peso": 50,
+            "procesamiento": 299,
+            "tiempolimite": 1022,
+            "Tardanza": 24797,
+            "TiempoAcabado": 25819
+        },
+        "351": {
+            "peso": 43,
+            "procesamiento": 196,
+            "tiempolimite": 1023,
+            "Tardanza": 24992,
+            "TiempoAcabado": 26015
+        },
+        "595": {
+            "peso": 5,
+            "procesamiento": 722,
+            "tiempolimite": 1023,
+            "Tardanza": 25714,
+            "TiempoAcabado": 26737
+        },
+        "92": {
+            "peso": 48,
+            "procesamiento": 612,
+            "tiempolimite": 1025,
+            "Tardanza": 26324,
+            "TiempoAcabado": 27349
+        },
+        "922": {
+            "peso": 94,
+            "procesamiento": 44,
+            "tiempolimite": 1025,
+            "Tardanza": 26368,
+            "TiempoAcabado": 27393
+        },
+        "928": {
+            "peso": 20,
+            "procesamiento": 17,
+            "tiempolimite": 1025,
+            "Tardanza": 26385,
+            "TiempoAcabado": 27410
+        },
+        "383": {
+            "peso": 12,
+            "procesamiento": 318,
+            "tiempolimite": 1026,
+            "Tardanza": 26702,
+            "TiempoAcabado": 27728
+        },
+        "560": {
+            "peso": 20,
+            "procesamiento": 799,
+            "tiempolimite": 1026,
+            "Tardanza": 27501,
+            "TiempoAcabado": 28527
+        },
+        "892": {
+            "peso": 4,
+            "procesamiento": 166,
+            "tiempolimite": 1026,
+            "Tardanza": 27667,
+            "TiempoAcabado": 28693
+        },
+        "34": {
+            "peso": 83,
+            "procesamiento": 714,
+            "tiempolimite": 1027,
+            "Tardanza": 28380,
+            "TiempoAcabado": 29407
+        },
+        "495": {
+            "peso": 79,
+            "procesamiento": 110,
+            "tiempolimite": 1027,
+            "Tardanza": 28490,
+            "TiempoAcabado": 29517
+        },
+        "8": {
+            "peso": 91,
+            "procesamiento": 642,
+            "tiempolimite": 1028,
+            "Tardanza": 29131,
+            "TiempoAcabado": 30159
+        },
+        "118": {
+            "peso": 76,
+            "procesamiento": 386,
+            "tiempolimite": 1028,
+            "Tardanza": 29517,
+            "TiempoAcabado": 30545
+        },
+        "436": {
+            "peso": 59,
+            "procesamiento": 417,
+            "tiempolimite": 1028,
+            "Tardanza": 29934,
+            "TiempoAcabado": 30962
+        },
+        "525": {
+            "peso": 60,
+            "procesamiento": 120,
+            "tiempolimite": 1028,
+            "Tardanza": 30054,
+            "TiempoAcabado": 31082
+        },
+        "647": {
+            "peso": 95,
+            "procesamiento": 414,
+            "tiempolimite": 1028,
+            "Tardanza": 30468,
+            "TiempoAcabado": 31496
+        },
+        "6": {
+            "peso": 49,
+            "procesamiento": 383,
+            "tiempolimite": 1030,
+            "Tardanza": 30849,
+            "TiempoAcabado": 31879
+        },
+        "421": {
+            "peso": 45,
+            "procesamiento": 340,
+            "tiempolimite": 1030,
+            "Tardanza": 31189,
+            "TiempoAcabado": 32219
+        },
+        "124": {
+            "peso": 8,
+            "procesamiento": 376,
+            "tiempolimite": 1031,
+            "Tardanza": 31564,
+            "TiempoAcabado": 32595
+        },
+        "316": {
+            "peso": 54,
+            "procesamiento": 103,
+            "tiempolimite": 1031,
+            "Tardanza": 31667,
+            "TiempoAcabado": 32698
+        },
+        "959": {
+            "peso": 38,
+            "procesamiento": 972,
+            "tiempolimite": 1031,
+            "Tardanza": 32639,
+            "TiempoAcabado": 33670
+        },
+        "961": {
+            "peso": 52,
+            "procesamiento": 769,
+            "tiempolimite": 1031,
+            "Tardanza": 33408,
+            "TiempoAcabado": 34439
+        },
+        "406": {
+            "peso": 82,
+            "procesamiento": 793,
+            "tiempolimite": 1032,
+            "Tardanza": 34200,
+            "TiempoAcabado": 35232
+        },
+        "457": {
+            "peso": 29,
+            "procesamiento": 981,
+            "tiempolimite": 1032,
+            "Tardanza": 35181,
+            "TiempoAcabado": 36213
+        },
+        "709": {
+            "peso": 84,
+            "procesamiento": 109,
+            "tiempolimite": 1032,
+            "Tardanza": 35290,
+            "TiempoAcabado": 36322
+        },
+        "997": {
+            "peso": 77,
+            "procesamiento": 106,
+            "tiempolimite": 1032,
+            "Tardanza": 35396,
+            "TiempoAcabado": 36428
+        },
+        "120": {
+            "peso": 49,
+            "procesamiento": 379,
+            "tiempolimite": 1033,
+            "Tardanza": 35774,
+            "TiempoAcabado": 36807
+        },
+        "169": {
+            "peso": 11,
+            "procesamiento": 640,
+            "tiempolimite": 1033,
+            "Tardanza": 36414,
+            "TiempoAcabado": 37447
+        },
+        "569": {
+            "peso": 77,
+            "procesamiento": 324,
+            "tiempolimite": 1033,
+            "Tardanza": 36738,
+            "TiempoAcabado": 37771
+        },
+        "667": {
+            "peso": 1,
+            "procesamiento": 912,
+            "tiempolimite": 1033,
+            "Tardanza": 37650,
+            "TiempoAcabado": 38683
+        },
+        "16": {
+            "peso": 20,
+            "procesamiento": 5,
+            "tiempolimite": 1034,
+            "Tardanza": 37654,
+            "TiempoAcabado": 38688
+        },
+        "150": {
+            "peso": 97,
+            "procesamiento": 235,
+            "tiempolimite": 1034,
+            "Tardanza": 37889,
+            "TiempoAcabado": 38923
+        },
+        "192": {
+            "peso": 61,
+            "procesamiento": 197,
+            "tiempolimite": 1034,
+            "Tardanza": 38086,
+            "TiempoAcabado": 39120
+        },
+        "260": {
+            "peso": 36,
+            "procesamiento": 221,
+            "tiempolimite": 1034,
+            "Tardanza": 38307,
+            "TiempoAcabado": 39341
+        },
+        "630": {
+            "peso": 59,
+            "procesamiento": 92,
+            "tiempolimite": 1034,
+            "Tardanza": 38399,
+            "TiempoAcabado": 39433
+        },
+        "348": {
+            "peso": 68,
+            "procesamiento": 673,
+            "tiempolimite": 1035,
+            "Tardanza": 39071,
+            "TiempoAcabado": 40106
+        },
+        "399": {
+            "peso": 72,
+            "procesamiento": 987,
+            "tiempolimite": 1035,
+            "Tardanza": 40058,
+            "TiempoAcabado": 41093
+        },
+        "543": {
+            "peso": 56,
+            "procesamiento": 102,
+            "tiempolimite": 1036,
+            "Tardanza": 40159,
+            "TiempoAcabado": 41195
+        },
+        "711": {
+            "peso": 66,
+            "procesamiento": 624,
+            "tiempolimite": 1036,
+            "Tardanza": 40783,
+            "TiempoAcabado": 41819
+        },
+        "357": {
+            "peso": 26,
+            "procesamiento": 535,
+            "tiempolimite": 1037,
+            "Tardanza": 41317,
+            "TiempoAcabado": 42354
+        },
+        "429": {
+            "peso": 31,
+            "procesamiento": 661,
+            "tiempolimite": 1037,
+            "Tardanza": 41978,
+            "TiempoAcabado": 43015
+        },
+        "888": {
+            "peso": 98,
+            "procesamiento": 105,
+            "tiempolimite": 1037,
+            "Tardanza": 42083,
+            "TiempoAcabado": 43120
+        },
+        "674": {
+            "peso": 27,
+            "procesamiento": 43,
+            "tiempolimite": 1039,
+            "Tardanza": 42124,
+            "TiempoAcabado": 43163
+        },
+        "679": {
+            "peso": 15,
+            "procesamiento": 345,
+            "tiempolimite": 1039,
+            "Tardanza": 42469,
+            "TiempoAcabado": 43508
+        },
+        "805": {
+            "peso": 44,
+            "procesamiento": 182,
+            "tiempolimite": 1039,
+            "Tardanza": 42651,
+            "TiempoAcabado": 43690
+        },
+        "943": {
+            "peso": 72,
+            "procesamiento": 481,
+            "tiempolimite": 1039,
+            "Tardanza": 43132,
+            "TiempoAcabado": 44171
+        },
+        "977": {
+            "peso": 71,
+            "procesamiento": 793,
+            "tiempolimite": 1039,
+            "Tardanza": 43925,
+            "TiempoAcabado": 44964
+        },
+        "75": {
+            "peso": 49,
+            "procesamiento": 658,
+            "tiempolimite": 1040,
+            "Tardanza": 44582,
+            "TiempoAcabado": 45622
+        },
+        "702": {
+            "peso": 95,
+            "procesamiento": 23,
+            "tiempolimite": 1041,
+            "Tardanza": 44604,
+            "TiempoAcabado": 45645
+        },
+        "910": {
+            "peso": 51,
+            "procesamiento": 121,
+            "tiempolimite": 1041,
+            "Tardanza": 44725,
+            "TiempoAcabado": 45766
+        },
+        "717": {
+            "peso": 4,
+            "procesamiento": 922,
+            "tiempolimite": 1042,
+            "Tardanza": 45646,
+            "TiempoAcabado": 46688
+        },
+        "907": {
+            "peso": 63,
+            "procesamiento": 810,
+            "tiempolimite": 1042,
+            "Tardanza": 46456,
+            "TiempoAcabado": 47498
+        },
+        "11": {
+            "peso": 56,
+            "procesamiento": 726,
+            "tiempolimite": 1043,
+            "Tardanza": 47181,
+            "TiempoAcabado": 48224
+        },
+        "440": {
+            "peso": 24,
+            "procesamiento": 149,
+            "tiempolimite": 1043,
+            "Tardanza": 47330,
+            "TiempoAcabado": 48373
+        },
+        "832": {
+            "peso": 32,
+            "procesamiento": 108,
+            "tiempolimite": 1043,
+            "Tardanza": 47438,
+            "TiempoAcabado": 48481
+        },
+        "843": {
+            "peso": 19,
+            "procesamiento": 922,
+            "tiempolimite": 1043,
+            "Tardanza": 48360,
+            "TiempoAcabado": 49403
+        },
+        "449": {
+            "peso": 53,
+            "procesamiento": 459,
+            "tiempolimite": 1044,
+            "Tardanza": 48818,
+            "TiempoAcabado": 49862
+        },
+        "507": {
+            "peso": 92,
+            "procesamiento": 126,
+            "tiempolimite": 1044,
+            "Tardanza": 48944,
+            "TiempoAcabado": 49988
+        },
+        "533": {
+            "peso": 97,
+            "procesamiento": 291,
+            "tiempolimite": 1044,
+            "Tardanza": 49235,
+            "TiempoAcabado": 50279
+        },
+        "603": {
+            "peso": 29,
+            "procesamiento": 245,
+            "tiempolimite": 1044,
+            "Tardanza": 49480,
+            "TiempoAcabado": 50524
+        },
+        "621": {
+            "peso": 60,
+            "procesamiento": 568,
+            "tiempolimite": 1044,
+            "Tardanza": 50048,
+            "TiempoAcabado": 51092
+        },
+        "281": {
+            "peso": 15,
+            "procesamiento": 808,
+            "tiempolimite": 1045,
+            "Tardanza": 50855,
+            "TiempoAcabado": 51900
+        },
+        "317": {
+            "peso": 7,
+            "procesamiento": 60,
+            "tiempolimite": 1045,
+            "Tardanza": 50915,
+            "TiempoAcabado": 51960
+        },
+        "430": {
+            "peso": 37,
+            "procesamiento": 373,
+            "tiempolimite": 1045,
+            "Tardanza": 51288,
+            "TiempoAcabado": 52333
+        },
+        "503": {
+            "peso": 52,
+            "procesamiento": 640,
+            "tiempolimite": 1045,
+            "Tardanza": 51928,
+            "TiempoAcabado": 52973
+        },
+        "593": {
+            "peso": 5,
+            "procesamiento": 969,
+            "tiempolimite": 1045,
+            "Tardanza": 52897,
+            "TiempoAcabado": 53942
+        },
+        "699": {
+            "peso": 57,
+            "procesamiento": 285,
+            "tiempolimite": 1045,
+            "Tardanza": 53182,
+            "TiempoAcabado": 54227
+        },
+        "785": {
+            "peso": 85,
+            "procesamiento": 975,
+            "tiempolimite": 1046,
+            "Tardanza": 54156,
+            "TiempoAcabado": 55202
+        },
+        "794": {
+            "peso": 64,
+            "procesamiento": 69,
+            "tiempolimite": 1046,
+            "Tardanza": 54225,
+            "TiempoAcabado": 55271
+        },
+        "414": {
+            "peso": 96,
+            "procesamiento": 952,
+            "tiempolimite": 1047,
+            "Tardanza": 55176,
+            "TiempoAcabado": 56223
+        },
+        "933": {
+            "peso": 66,
+            "procesamiento": 412,
+            "tiempolimite": 1047,
+            "Tardanza": 55588,
+            "TiempoAcabado": 56635
+        },
+        "385": {
+            "peso": 58,
+            "procesamiento": 737,
+            "tiempolimite": 1048,
+            "Tardanza": 56324,
+            "TiempoAcabado": 57372
+        },
+        "19": {
+            "peso": 91,
+            "procesamiento": 512,
+            "tiempolimite": 1049,
+            "Tardanza": 56835,
+            "TiempoAcabado": 57884
+        },
+        "102": {
+            "peso": 5,
+            "procesamiento": 875,
+            "tiempolimite": 1049,
+            "Tardanza": 57710,
+            "TiempoAcabado": 58759
+        },
+        "531": {
+            "peso": 71,
+            "procesamiento": 131,
+            "tiempolimite": 1049,
+            "Tardanza": 57841,
+            "TiempoAcabado": 58890
+        },
+        "185": {
+            "peso": 18,
+            "procesamiento": 689,
+            "tiempolimite": 1050,
+            "Tardanza": 58529,
+            "TiempoAcabado": 59579
+        },
+        "200": {
+            "peso": 49,
+            "procesamiento": 958,
+            "tiempolimite": 1050,
+            "Tardanza": 59487,
+            "TiempoAcabado": 60537
+        },
+        "657": {
+            "peso": 94,
+            "procesamiento": 470,
+            "tiempolimite": 1050,
+            "Tardanza": 59957,
+            "TiempoAcabado": 61007
+        },
+        "660": {
+            "peso": 6,
+            "procesamiento": 32,
+            "tiempolimite": 1051,
+            "Tardanza": 59988,
+            "TiempoAcabado": 61039
+        },
+        "824": {
+            "peso": 85,
+            "procesamiento": 882,
+            "tiempolimite": 1051,
+            "Tardanza": 60870,
+            "TiempoAcabado": 61921
+        },
+        "545": {
+            "peso": 24,
+            "procesamiento": 968,
+            "tiempolimite": 1052,
+            "Tardanza": 61837,
+            "TiempoAcabado": 62889
+        },
+        "819": {
+            "peso": 71,
+            "procesamiento": 986,
+            "tiempolimite": 1052,
+            "Tardanza": 62823,
+            "TiempoAcabado": 63875
+        },
+        "238": {
+            "peso": 36,
+            "procesamiento": 310,
+            "tiempolimite": 1053,
+            "Tardanza": 63132,
+            "TiempoAcabado": 64185
+        },
+        "823": {
+            "peso": 32,
+            "procesamiento": 578,
+            "tiempolimite": 1053,
+            "Tardanza": 63710,
+            "TiempoAcabado": 64763
+        },
+        "491": {
+            "peso": 55,
+            "procesamiento": 379,
+            "tiempolimite": 1054,
+            "Tardanza": 64088,
+            "TiempoAcabado": 65142
+        },
+        "665": {
+            "peso": 3,
+            "procesamiento": 383,
+            "tiempolimite": 1054,
+            "Tardanza": 64471,
+            "TiempoAcabado": 65525
+        },
+        "350": {
+            "peso": 68,
+            "procesamiento": 986,
+            "tiempolimite": 1055,
+            "Tardanza": 65456,
+            "TiempoAcabado": 66511
+        },
+        "908": {
+            "peso": 2,
+            "procesamiento": 488,
+            "tiempolimite": 1055,
+            "Tardanza": 65944,
+            "TiempoAcabado": 66999
+        },
+        "356": {
+            "peso": 22,
+            "procesamiento": 510,
+            "tiempolimite": 1056,
+            "Tardanza": 66453,
+            "TiempoAcabado": 67509
+        },
+        "388": {
+            "peso": 5,
+            "procesamiento": 518,
+            "tiempolimite": 1056,
+            "Tardanza": 66971,
+            "TiempoAcabado": 68027
+        },
+        "455": {
+            "peso": 32,
+            "procesamiento": 737,
+            "tiempolimite": 1056,
+            "Tardanza": 67708,
+            "TiempoAcabado": 68764
+        },
+        "2": {
+            "peso": 47,
+            "procesamiento": 8,
+            "tiempolimite": 1057,
+            "Tardanza": 67715,
+            "TiempoAcabado": 68772
+        },
+        "210": {
+            "peso": 31,
+            "procesamiento": 67,
+            "tiempolimite": 1057,
+            "Tardanza": 67782,
+            "TiempoAcabado": 68839
+        },
+        "494": {
+            "peso": 48,
+            "procesamiento": 538,
+            "tiempolimite": 1057,
+            "Tardanza": 68320,
+            "TiempoAcabado": 69377
+        },
+        "837": {
+            "peso": 6,
+            "procesamiento": 989,
+            "tiempolimite": 1057,
+            "Tardanza": 69309,
+            "TiempoAcabado": 70366
+        },
+        "934": {
+            "peso": 45,
+            "procesamiento": 182,
+            "tiempolimite": 1057,
+            "Tardanza": 69491,
+            "TiempoAcabado": 70548
+        },
+        "701": {
+            "peso": 32,
+            "procesamiento": 179,
+            "tiempolimite": 1058,
+            "Tardanza": 69669,
+            "TiempoAcabado": 70727
+        },
+        "792": {
+            "peso": 34,
+            "procesamiento": 527,
+            "tiempolimite": 1058,
+            "Tardanza": 70196,
+            "TiempoAcabado": 71254
+        },
+        "991": {
+            "peso": 9,
+            "procesamiento": 707,
+            "tiempolimite": 1058,
+            "Tardanza": 70903,
+            "TiempoAcabado": 71961
+        },
+        "633": {
+            "peso": 11,
+            "procesamiento": 981,
+            "tiempolimite": 1059,
+            "Tardanza": 71883,
+            "TiempoAcabado": 72942
+        },
+        "875": {
+            "peso": 53,
+            "procesamiento": 527,
+            "tiempolimite": 1059,
+            "Tardanza": 72410,
+            "TiempoAcabado": 73469
+        },
+        "884": {
+            "peso": 26,
+            "procesamiento": 620,
+            "tiempolimite": 1059,
+            "Tardanza": 73030,
+            "TiempoAcabado": 74089
+        },
+        "295": {
+            "peso": 64,
+            "procesamiento": 343,
+            "tiempolimite": 1060,
+            "Tardanza": 73372,
+            "TiempoAcabado": 74432
+        },
+        "537": {
+            "peso": 71,
+            "procesamiento": 367,
+            "tiempolimite": 1060,
+            "Tardanza": 73739,
+            "TiempoAcabado": 74799
+        },
+        "779": {
+            "peso": 59,
+            "procesamiento": 205,
+            "tiempolimite": 1060,
+            "Tardanza": 73944,
+            "TiempoAcabado": 75004
+        },
+        "223": {
+            "peso": 30,
+            "procesamiento": 214,
+            "tiempolimite": 1062,
+            "Tardanza": 74156,
+            "TiempoAcabado": 75218
+        },
+        "354": {
+            "peso": 78,
+            "procesamiento": 327,
+            "tiempolimite": 1062,
+            "Tardanza": 74483,
+            "TiempoAcabado": 75545
+        },
+        "712": {
+            "peso": 99,
+            "procesamiento": 973,
+            "tiempolimite": 1062,
+            "Tardanza": 75456,
+            "TiempoAcabado": 76518
+        },
+        "743": {
+            "peso": 88,
+            "procesamiento": 384,
+            "tiempolimite": 1062,
+            "Tardanza": 75840,
+            "TiempoAcabado": 76902
+        },
+        "448": {
+            "peso": 55,
+            "procesamiento": 263,
+            "tiempolimite": 1063,
+            "Tardanza": 76102,
+            "TiempoAcabado": 77165
+        },
+        "153": {
+            "peso": 74,
+            "procesamiento": 712,
+            "tiempolimite": 1064,
+            "Tardanza": 76813,
+            "TiempoAcabado": 77877
+        },
+        "580": {
+            "peso": 94,
+            "procesamiento": 537,
+            "tiempolimite": 1064,
+            "Tardanza": 77350,
+            "TiempoAcabado": 78414
+        },
+        "583": {
+            "peso": 50,
+            "procesamiento": 233,
+            "tiempolimite": 1064,
+            "Tardanza": 77583,
+            "TiempoAcabado": 78647
+        },
+        "698": {
+            "peso": 30,
+            "procesamiento": 430,
+            "tiempolimite": 1064,
+            "Tardanza": 78013,
+            "TiempoAcabado": 79077
+        },
+        "392": {
+            "peso": 3,
+            "procesamiento": 5,
+            "tiempolimite": 1065,
+            "Tardanza": 78017,
+            "TiempoAcabado": 79082
+        },
+        "466": {
+            "peso": 59,
+            "procesamiento": 567,
+            "tiempolimite": 1065,
+            "Tardanza": 78584,
+            "TiempoAcabado": 79649
+        },
+        "929": {
+            "peso": 74,
+            "procesamiento": 690,
+            "tiempolimite": 1065,
+            "Tardanza": 79274,
+            "TiempoAcabado": 80339
+        },
+        "54": {
+            "peso": 44,
+            "procesamiento": 338,
+            "tiempolimite": 1066,
+            "Tardanza": 79611,
+            "TiempoAcabado": 80677
+        },
+        "310": {
+            "peso": 69,
+            "procesamiento": 464,
+            "tiempolimite": 1066,
+            "Tardanza": 80075,
+            "TiempoAcabado": 81141
+        },
+        "820": {
+            "peso": 50,
+            "procesamiento": 884,
+            "tiempolimite": 1066,
+            "Tardanza": 80959,
+            "TiempoAcabado": 82025
+        },
+        "504": {
+            "peso": 57,
+            "procesamiento": 813,
+            "tiempolimite": 1067,
+            "Tardanza": 81771,
+            "TiempoAcabado": 82838
+        },
+        "199": {
+            "peso": 67,
+            "procesamiento": 386,
+            "tiempolimite": 1068,
+            "Tardanza": 82156,
+            "TiempoAcabado": 83224
+        },
+        "322": {
+            "peso": 85,
+            "procesamiento": 881,
+            "tiempolimite": 1068,
+            "Tardanza": 83037,
+            "TiempoAcabado": 84105
+        },
+        "441": {
+            "peso": 85,
+            "procesamiento": 38,
+            "tiempolimite": 1069,
+            "Tardanza": 83074,
+            "TiempoAcabado": 84143
+        },
+        "619": {
+            "peso": 6,
+            "procesamiento": 567,
+            "tiempolimite": 1069,
+            "Tardanza": 83641,
+            "TiempoAcabado": 84710
+        },
+        "911": {
+            "peso": 99,
+            "procesamiento": 721,
+            "tiempolimite": 1069,
+            "Tardanza": 84362,
+            "TiempoAcabado": 85431
+        },
+        "374": {
+            "peso": 46,
+            "procesamiento": 821,
+            "tiempolimite": 1070,
+            "Tardanza": 85182,
+            "TiempoAcabado": 86252
+        },
+        "55": {
+            "peso": 56,
+            "procesamiento": 19,
+            "tiempolimite": 1071,
+            "Tardanza": 85200,
+            "TiempoAcabado": 86271
+        },
+        "332": {
+            "peso": 45,
+            "procesamiento": 921,
+            "tiempolimite": 1071,
+            "Tardanza": 86121,
+            "TiempoAcabado": 87192
+        },
+        "148": {
+            "peso": 66,
+            "procesamiento": 871,
+            "tiempolimite": 1072,
+            "Tardanza": 86991,
+            "TiempoAcabado": 88063
+        },
+        "360": {
+            "peso": 71,
+            "procesamiento": 760,
+            "tiempolimite": 1072,
+            "Tardanza": 87751,
+            "TiempoAcabado": 88823
+        },
+        "282": {
+            "peso": 39,
+            "procesamiento": 890,
+            "tiempolimite": 1073,
+            "Tardanza": 88640,
+            "TiempoAcabado": 89713
+        },
+        "539": {
+            "peso": 51,
+            "procesamiento": 412,
+            "tiempolimite": 1073,
+            "Tardanza": 89052,
+            "TiempoAcabado": 90125
+        },
+        "550": {
+            "peso": 9,
+            "procesamiento": 858,
+            "tiempolimite": 1073,
+            "Tardanza": 89910,
+            "TiempoAcabado": 90983
+        },
+        "956": {
+            "peso": 24,
+            "procesamiento": 177,
+            "tiempolimite": 1074,
+            "Tardanza": 90086,
+            "TiempoAcabado": 91160
+        },
+        "13": {
+            "peso": 44,
+            "procesamiento": 388,
+            "tiempolimite": 1075,
+            "Tardanza": 90473,
+            "TiempoAcabado": 91548
+        },
+        "76": {
+            "peso": 48,
+            "procesamiento": 935,
+            "tiempolimite": 1075,
+            "Tardanza": 91408,
+            "TiempoAcabado": 92483
+        },
+        "180": {
+            "peso": 11,
+            "procesamiento": 774,
+            "tiempolimite": 1075,
+            "Tardanza": 92182,
+            "TiempoAcabado": 93257
+        },
+        "816": {
+            "peso": 19,
+            "procesamiento": 672,
+            "tiempolimite": 1075,
+            "Tardanza": 92854,
+            "TiempoAcabado": 93929
+        },
+        "72": {
+            "peso": 24,
+            "procesamiento": 934,
+            "tiempolimite": 1076,
+            "Tardanza": 93787,
+            "TiempoAcabado": 94863
+        },
+        "131": {
+            "peso": 1,
+            "procesamiento": 796,
+            "tiempolimite": 1076,
+            "Tardanza": 94583,
+            "TiempoAcabado": 95659
+        },
+        "685": {
+            "peso": 93,
+            "procesamiento": 4,
+            "tiempolimite": 1076,
+            "Tardanza": 94587,
+            "TiempoAcabado": 95663
+        },
+        "88": {
+            "peso": 25,
+            "procesamiento": 84,
+            "tiempolimite": 1077,
+            "Tardanza": 94670,
+            "TiempoAcabado": 95747
+        },
+        "889": {
+            "peso": 6,
+            "procesamiento": 356,
+            "tiempolimite": 1077,
+            "Tardanza": 95026,
+            "TiempoAcabado": 96103
+        },
+        "678": {
+            "peso": 59,
+            "procesamiento": 409,
+            "tiempolimite": 1078,
+            "Tardanza": 95434,
+            "TiempoAcabado": 96512
+        },
+        "411": {
+            "peso": 70,
+            "procesamiento": 806,
+            "tiempolimite": 1079,
+            "Tardanza": 96239,
+            "TiempoAcabado": 97318
+        },
+        "538": {
+            "peso": 81,
+            "procesamiento": 283,
+            "tiempolimite": 1079,
+            "Tardanza": 96522,
+            "TiempoAcabado": 97601
+        },
+        "682": {
+            "peso": 89,
+            "procesamiento": 205,
+            "tiempolimite": 1079,
+            "Tardanza": 96727,
+            "TiempoAcabado": 97806
+        },
+        "919": {
+            "peso": 87,
+            "procesamiento": 440,
+            "tiempolimite": 1079,
+            "Tardanza": 97167,
+            "TiempoAcabado": 98246
+        },
+        "923": {
+            "peso": 51,
+            "procesamiento": 934,
+            "tiempolimite": 1079,
+            "Tardanza": 98101,
+            "TiempoAcabado": 99180
+        },
+        "624": {
+            "peso": 55,
+            "procesamiento": 433,
+            "tiempolimite": 1080,
+            "Tardanza": 98533,
+            "TiempoAcabado": 99613
+        },
+        "755": {
+            "peso": 33,
+            "procesamiento": 631,
+            "tiempolimite": 1080,
+            "Tardanza": 99164,
+            "TiempoAcabado": 100244
+        },
+        "81": {
+            "peso": 71,
+            "procesamiento": 561,
+            "tiempolimite": 1081,
+            "Tardanza": 99724,
+            "TiempoAcabado": 100805
+        },
+        "423": {
+            "peso": 10,
+            "procesamiento": 207,
+            "tiempolimite": 1081,
+            "Tardanza": 99931,
+            "TiempoAcabado": 101012
+        },
+        "452": {
+            "peso": 51,
+            "procesamiento": 734,
+            "tiempolimite": 1083,
+            "Tardanza": 100663,
+            "TiempoAcabado": 101746
+        },
+        "909": {
+            "peso": 20,
+            "procesamiento": 452,
+            "tiempolimite": 1083,
+            "Tardanza": 101115,
+            "TiempoAcabado": 102198
+        },
+        "573": {
+            "peso": 66,
+            "procesamiento": 891,
+            "tiempolimite": 1084,
+            "Tardanza": 102005,
+            "TiempoAcabado": 103089
+        },
+        "748": {
+            "peso": 18,
+            "procesamiento": 862,
+            "tiempolimite": 1084,
+            "Tardanza": 102867,
+            "TiempoAcabado": 103951
+        },
+        "380": {
+            "peso": 3,
+            "procesamiento": 594,
+            "tiempolimite": 1085,
+            "Tardanza": 103460,
+            "TiempoAcabado": 104545
+        },
+        "697": {
+            "peso": 51,
+            "procesamiento": 946,
+            "tiempolimite": 1085,
+            "Tardanza": 104406,
+            "TiempoAcabado": 105491
+        },
+        "863": {
+            "peso": 27,
+            "procesamiento": 902,
+            "tiempolimite": 1085,
+            "Tardanza": 105308,
+            "TiempoAcabado": 106393
+        },
+        "841": {
+            "peso": 76,
+            "procesamiento": 869,
+            "tiempolimite": 1087,
+            "Tardanza": 106175,
+            "TiempoAcabado": 107262
+        },
+        "14": {
+            "peso": 84,
+            "procesamiento": 273,
+            "tiempolimite": 1088,
+            "Tardanza": 106447,
+            "TiempoAcabado": 107535
+        },
+        "222": {
+            "peso": 94,
+            "procesamiento": 459,
+            "tiempolimite": 1088,
+            "Tardanza": 106906,
+            "TiempoAcabado": 107994
+        },
+        "394": {
+            "peso": 47,
+            "procesamiento": 141,
+            "tiempolimite": 1088,
+            "Tardanza": 107047,
+            "TiempoAcabado": 108135
+        },
+        "784": {
+            "peso": 67,
+            "procesamiento": 185,
+            "tiempolimite": 1088,
+            "Tardanza": 107232,
+            "TiempoAcabado": 108320
+        },
+        "279": {
+            "peso": 56,
+            "procesamiento": 84,
+            "tiempolimite": 1089,
+            "Tardanza": 107315,
+            "TiempoAcabado": 108404
+        },
+        "638": {
+            "peso": 80,
+            "procesamiento": 257,
+            "tiempolimite": 1089,
+            "Tardanza": 107572,
+            "TiempoAcabado": 108661
+        },
+        "105": {
+            "peso": 27,
+            "procesamiento": 898,
+            "tiempolimite": 1090,
+            "Tardanza": 108469,
+            "TiempoAcabado": 109559
+        },
+        "418": {
+            "peso": 29,
+            "procesamiento": 258,
+            "tiempolimite": 1090,
+            "Tardanza": 108727,
+            "TiempoAcabado": 109817
+        },
+        "649": {
+            "peso": 88,
+            "procesamiento": 674,
+            "tiempolimite": 1090,
+            "Tardanza": 109401,
+            "TiempoAcabado": 110491
+        },
+        "229": {
+            "peso": 74,
+            "procesamiento": 783,
+            "tiempolimite": 1091,
+            "Tardanza": 110183,
+            "TiempoAcabado": 111274
+        },
+        "520": {
+            "peso": 89,
+            "procesamiento": 152,
+            "tiempolimite": 1091,
+            "Tardanza": 110335,
+            "TiempoAcabado": 111426
+        },
+        "540": {
+            "peso": 91,
+            "procesamiento": 956,
+            "tiempolimite": 1091,
+            "Tardanza": 111291,
+            "TiempoAcabado": 112382
+        },
+        "596": {
+            "peso": 3,
+            "procesamiento": 602,
+            "tiempolimite": 1091,
+            "Tardanza": 111893,
+            "TiempoAcabado": 112984
+        },
+        "214": {
+            "peso": 89,
+            "procesamiento": 610,
+            "tiempolimite": 1092,
+            "Tardanza": 112502,
+            "TiempoAcabado": 113594
+        },
+        "541": {
+            "peso": 78,
+            "procesamiento": 894,
+            "tiempolimite": 1093,
+            "Tardanza": 113395,
+            "TiempoAcabado": 114488
+        },
+        "766": {
+            "peso": 38,
+            "procesamiento": 389,
+            "tiempolimite": 1093,
+            "Tardanza": 113784,
+            "TiempoAcabado": 114877
+        },
+        "64": {
+            "peso": 25,
+            "procesamiento": 895,
+            "tiempolimite": 1094,
+            "Tardanza": 114678,
+            "TiempoAcabado": 115772
+        },
+        "166": {
+            "peso": 4,
+            "procesamiento": 777,
+            "tiempolimite": 1094,
+            "Tardanza": 115455,
+            "TiempoAcabado": 116549
+        },
+        "189": {
+            "peso": 1,
+            "procesamiento": 453,
+            "tiempolimite": 1094,
+            "Tardanza": 115908,
+            "TiempoAcabado": 117002
+        },
+        "734": {
+            "peso": 41,
+            "procesamiento": 321,
+            "tiempolimite": 1094,
+            "Tardanza": 116229,
+            "TiempoAcabado": 117323
+        },
+        "22": {
+            "peso": 40,
+            "procesamiento": 945,
+            "tiempolimite": 1095,
+            "Tardanza": 117173,
+            "TiempoAcabado": 118268
+        },
+        "50": {
+            "peso": 35,
+            "procesamiento": 883,
+            "tiempolimite": 1095,
+            "Tardanza": 118056,
+            "TiempoAcabado": 119151
+        },
+        "159": {
+            "peso": 25,
+            "procesamiento": 960,
+            "tiempolimite": 1095,
+            "Tardanza": 119016,
+            "TiempoAcabado": 120111
+        },
+        "294": {
+            "peso": 79,
+            "procesamiento": 530,
+            "tiempolimite": 1095,
+            "Tardanza": 119546,
+            "TiempoAcabado": 120641
+        },
+        "780": {
+            "peso": 38,
+            "procesamiento": 919,
+            "tiempolimite": 1095,
+            "Tardanza": 120465,
+            "TiempoAcabado": 121560
+        },
+        "782": {
+            "peso": 59,
+            "procesamiento": 932,
+            "tiempolimite": 1095,
+            "Tardanza": 121397,
+            "TiempoAcabado": 122492
+        },
+        "838": {
+            "peso": 62,
+            "procesamiento": 785,
+            "tiempolimite": 1095,
+            "Tardanza": 122182,
+            "TiempoAcabado": 123277
+        },
+        "921": {
+            "peso": 67,
+            "procesamiento": 996,
+            "tiempolimite": 1096,
+            "Tardanza": 123177,
+            "TiempoAcabado": 124273
+        },
+        "186": {
+            "peso": 52,
+            "procesamiento": 635,
+            "tiempolimite": 1097,
+            "Tardanza": 123811,
+            "TiempoAcabado": 124908
+        },
+        "654": {
+            "peso": 31,
+            "procesamiento": 378,
+            "tiempolimite": 1097,
+            "Tardanza": 124189,
+            "TiempoAcabado": 125286
+        },
+        "756": {
+            "peso": 13,
+            "procesamiento": 463,
+            "tiempolimite": 1097,
+            "Tardanza": 124652,
+            "TiempoAcabado": 125749
+        },
+        "447": {
+            "peso": 82,
+            "procesamiento": 470,
+            "tiempolimite": 1099,
+            "Tardanza": 125120,
+            "TiempoAcabado": 126219
+        },
+        "106": {
+            "peso": 58,
+            "procesamiento": 498,
+            "tiempolimite": 1100,
+            "Tardanza": 125617,
+            "TiempoAcabado": 126717
+        },
+        "254": {
+            "peso": 31,
+            "procesamiento": 668,
+            "tiempolimite": 1100,
+            "Tardanza": 126285,
+            "TiempoAcabado": 127385
+        },
+        "266": {
+            "peso": 7,
+            "procesamiento": 301,
+            "tiempolimite": 1100,
+            "Tardanza": 126586,
+            "TiempoAcabado": 127686
+        },
+        "887": {
+            "peso": 82,
+            "procesamiento": 495,
+            "tiempolimite": 1100,
+            "Tardanza": 127081,
+            "TiempoAcabado": 128181
+        },
+        "930": {
+            "peso": 32,
+            "procesamiento": 372,
+            "tiempolimite": 1100,
+            "Tardanza": 127453,
+            "TiempoAcabado": 128553
+        },
+        "327": {
+            "peso": 40,
+            "procesamiento": 605,
+            "tiempolimite": 1101,
+            "Tardanza": 128057,
+            "TiempoAcabado": 129158
+        },
+        "519": {
+            "peso": 64,
+            "procesamiento": 797,
+            "tiempolimite": 1101,
+            "Tardanza": 128854,
+            "TiempoAcabado": 129955
+        },
+        "694": {
+            "peso": 56,
+            "procesamiento": 832,
+            "tiempolimite": 1101,
+            "Tardanza": 129686,
+            "TiempoAcabado": 130787
+        },
+        "518": {
+            "peso": 51,
+            "procesamiento": 88,
+            "tiempolimite": 1102,
+            "Tardanza": 129773,
+            "TiempoAcabado": 130875
+        },
+        "677": {
+            "peso": 34,
+            "procesamiento": 904,
+            "tiempolimite": 1103,
+            "Tardanza": 130676,
+            "TiempoAcabado": 131779
+        },
+        "134": {
+            "peso": 28,
+            "procesamiento": 954,
+            "tiempolimite": 1104,
+            "Tardanza": 131629,
+            "TiempoAcabado": 132733
+        },
+        "330": {
+            "peso": 46,
+            "procesamiento": 914,
+            "tiempolimite": 1104,
+            "Tardanza": 132543,
+            "TiempoAcabado": 133647
+        },
+        "738": {
+            "peso": 77,
+            "procesamiento": 210,
+            "tiempolimite": 1104,
+            "Tardanza": 132753,
+            "TiempoAcabado": 133857
+        },
+        "937": {
+            "peso": 77,
+            "procesamiento": 165,
+            "tiempolimite": 1104,
+            "Tardanza": 132918,
+            "TiempoAcabado": 134022
+        },
+        "110": {
+            "peso": 2,
+            "procesamiento": 751,
+            "tiempolimite": 1105,
+            "Tardanza": 133668,
+            "TiempoAcabado": 134773
+        },
+        "376": {
+            "peso": 12,
+            "procesamiento": 683,
+            "tiempolimite": 1105,
+            "Tardanza": 134351,
+            "TiempoAcabado": 135456
+        },
+        "512": {
+            "peso": 28,
+            "procesamiento": 777,
+            "tiempolimite": 1105,
+            "Tardanza": 135128,
+            "TiempoAcabado": 136233
+        },
+        "496": {
+            "peso": 51,
+            "procesamiento": 832,
+            "tiempolimite": 1106,
+            "Tardanza": 135959,
+            "TiempoAcabado": 137065
+        },
+        "610": {
+            "peso": 7,
+            "procesamiento": 24,
+            "tiempolimite": 1106,
+            "Tardanza": 135983,
+            "TiempoAcabado": 137089
+        },
+        "736": {
+            "peso": 11,
+            "procesamiento": 199,
+            "tiempolimite": 1107,
+            "Tardanza": 136181,
+            "TiempoAcabado": 137288
+        },
+        "21": {
+            "peso": 99,
+            "procesamiento": 402,
+            "tiempolimite": 1108,
+            "Tardanza": 136582,
+            "TiempoAcabado": 137690
+        },
+        "39": {
+            "peso": 99,
+            "procesamiento": 106,
+            "tiempolimite": 1108,
+            "Tardanza": 136688,
+            "TiempoAcabado": 137796
+        },
+        "111": {
+            "peso": 93,
+            "procesamiento": 848,
+            "tiempolimite": 1108,
+            "Tardanza": 137536,
+            "TiempoAcabado": 138644
+        },
+        "334": {
+            "peso": 52,
+            "procesamiento": 150,
+            "tiempolimite": 1110,
+            "Tardanza": 137684,
+            "TiempoAcabado": 138794
+        },
+        "428": {
+            "peso": 28,
+            "procesamiento": 128,
+            "tiempolimite": 1110,
+            "Tardanza": 137812,
+            "TiempoAcabado": 138922
+        },
+        "950": {
+            "peso": 82,
+            "procesamiento": 79,
+            "tiempolimite": 1110,
+            "Tardanza": 137891,
+            "TiempoAcabado": 139001
+        },
+        "515": {
+            "peso": 16,
+            "procesamiento": 550,
+            "tiempolimite": 1111,
+            "Tardanza": 138440,
+            "TiempoAcabado": 139551
+        },
+        "529": {
+            "peso": 39,
+            "procesamiento": 154,
+            "tiempolimite": 1111,
+            "Tardanza": 138594,
+            "TiempoAcabado": 139705
+        },
+        "751": {
+            "peso": 86,
+            "procesamiento": 335,
+            "tiempolimite": 1111,
+            "Tardanza": 138929,
+            "TiempoAcabado": 140040
+        },
+        "901": {
+            "peso": 93,
+            "procesamiento": 905,
+            "tiempolimite": 1111,
+            "Tardanza": 139834,
+            "TiempoAcabado": 140945
+        },
+        "957": {
+            "peso": 24,
+            "procesamiento": 567,
+            "tiempolimite": 1111,
+            "Tardanza": 140401,
+            "TiempoAcabado": 141512
+        },
+        "218": {
+            "peso": 20,
+            "procesamiento": 972,
+            "tiempolimite": 1112,
+            "Tardanza": 141372,
+            "TiempoAcabado": 142484
+        },
+        "851": {
+            "peso": 36,
+            "procesamiento": 488,
+            "tiempolimite": 1112,
+            "Tardanza": 141860,
+            "TiempoAcabado": 142972
+        },
+        "68": {
+            "peso": 98,
+            "procesamiento": 684,
+            "tiempolimite": 1113,
+            "Tardanza": 142543,
+            "TiempoAcabado": 143656
+        },
+        "358": {
+            "peso": 87,
+            "procesamiento": 984,
+            "tiempolimite": 1113,
+            "Tardanza": 143527,
+            "TiempoAcabado": 144640
+        },
+        "585": {
+            "peso": 23,
+            "procesamiento": 534,
+            "tiempolimite": 1114,
+            "Tardanza": 144060,
+            "TiempoAcabado": 145174
+        },
+        "25": {
+            "peso": 91,
+            "procesamiento": 855,
+            "tiempolimite": 1115,
+            "Tardanza": 144914,
+            "TiempoAcabado": 146029
+        },
+        "32": {
+            "peso": 4,
+            "procesamiento": 175,
+            "tiempolimite": 1115,
+            "Tardanza": 145089,
+            "TiempoAcabado": 146204
+        },
+        "382": {
+            "peso": 47,
+            "procesamiento": 233,
+            "tiempolimite": 1115,
+            "Tardanza": 145322,
+            "TiempoAcabado": 146437
+        },
+        "597": {
+            "peso": 86,
+            "procesamiento": 59,
+            "tiempolimite": 1115,
+            "Tardanza": 145381,
+            "TiempoAcabado": 146496
+        },
+        "998": {
+            "peso": 7,
+            "procesamiento": 792,
+            "tiempolimite": 1115,
+            "Tardanza": 146173,
+            "TiempoAcabado": 147288
+        },
+        "220": {
+            "peso": 97,
+            "procesamiento": 396,
+            "tiempolimite": 1116,
+            "Tardanza": 146568,
+            "TiempoAcabado": 147684
+        },
+        "109": {
+            "peso": 21,
+            "procesamiento": 310,
+            "tiempolimite": 1117,
+            "Tardanza": 146877,
+            "TiempoAcabado": 147994
+        },
+        "216": {
+            "peso": 10,
+            "procesamiento": 782,
+            "tiempolimite": 1117,
+            "Tardanza": 147659,
+            "TiempoAcabado": 148776
+        },
+        "236": {
+            "peso": 33,
+            "procesamiento": 195,
+            "tiempolimite": 1118,
+            "Tardanza": 147853,
+            "TiempoAcabado": 148971
+        },
+        "277": {
+            "peso": 80,
+            "procesamiento": 478,
+            "tiempolimite": 1118,
+            "Tardanza": 148331,
+            "TiempoAcabado": 149449
+        },
+        "790": {
+            "peso": 67,
+            "procesamiento": 977,
+            "tiempolimite": 1118,
+            "Tardanza": 149308,
+            "TiempoAcabado": 150426
+        },
+        "891": {
+            "peso": 31,
+            "procesamiento": 879,
+            "tiempolimite": 1118,
+            "Tardanza": 150187,
+            "TiempoAcabado": 151305
+        },
+        "868": {
+            "peso": 77,
+            "procesamiento": 734,
+            "tiempolimite": 1119,
+            "Tardanza": 150920,
+            "TiempoAcabado": 152039
+        },
+        "47": {
+            "peso": 3,
+            "procesamiento": 977,
+            "tiempolimite": 1120,
+            "Tardanza": 151896,
+            "TiempoAcabado": 153016
+        },
+        "733": {
+            "peso": 64,
+            "procesamiento": 356,
+            "tiempolimite": 1120,
+            "Tardanza": 152252,
+            "TiempoAcabado": 153372
+        },
+        "833": {
+            "peso": 56,
+            "procesamiento": 627,
+            "tiempolimite": 1120,
+            "Tardanza": 152879,
+            "TiempoAcabado": 153999
+        },
+        "181": {
+            "peso": 81,
+            "procesamiento": 429,
+            "tiempolimite": 1121,
+            "Tardanza": 153307,
+            "TiempoAcabado": 154428
+        },
+        "425": {
+            "peso": 61,
+            "procesamiento": 684,
+            "tiempolimite": 1121,
+            "Tardanza": 153991,
+            "TiempoAcabado": 155112
+        },
+        "370": {
+            "peso": 73,
+            "procesamiento": 943,
+            "tiempolimite": 1122,
+            "Tardanza": 154933,
+            "TiempoAcabado": 156055
+        },
+        "444": {
+            "peso": 38,
+            "procesamiento": 81,
+            "tiempolimite": 1123,
+            "Tardanza": 155013,
+            "TiempoAcabado": 156136
+        },
+        "546": {
+            "peso": 80,
+            "procesamiento": 585,
+            "tiempolimite": 1123,
+            "Tardanza": 155598,
+            "TiempoAcabado": 156721
+        },
+        "731": {
+            "peso": 78,
+            "procesamiento": 306,
+            "tiempolimite": 1123,
+            "Tardanza": 155904,
+            "TiempoAcabado": 157027
+        },
+        "987": {
+            "peso": 60,
+            "procesamiento": 255,
+            "tiempolimite": 1123,
+            "Tardanza": 156159,
+            "TiempoAcabado": 157282
+        },
+        "37": {
+            "peso": 20,
+            "procesamiento": 89,
+            "tiempolimite": 1124,
+            "Tardanza": 156247,
+            "TiempoAcabado": 157371
+        },
+        "810": {
+            "peso": 66,
+            "procesamiento": 412,
+            "tiempolimite": 1124,
+            "Tardanza": 156659,
+            "TiempoAcabado": 157783
+        },
+        "668": {
+            "peso": 57,
+            "procesamiento": 447,
+            "tiempolimite": 1125,
+            "Tardanza": 157105,
+            "TiempoAcabado": 158230
+        },
+        "716": {
+            "peso": 15,
+            "procesamiento": 443,
+            "tiempolimite": 1125,
+            "Tardanza": 157548,
+            "TiempoAcabado": 158673
+        },
+        "762": {
+            "peso": 60,
+            "procesamiento": 119,
+            "tiempolimite": 1125,
+            "Tardanza": 157667,
+            "TiempoAcabado": 158792
+        },
+        "130": {
+            "peso": 60,
+            "procesamiento": 1000,
+            "tiempolimite": 1126,
+            "Tardanza": 158666,
+            "TiempoAcabado": 159792
+        },
+        "467": {
+            "peso": 98,
+            "procesamiento": 687,
+            "tiempolimite": 1126,
+            "Tardanza": 159353,
+            "TiempoAcabado": 160479
+        },
+        "656": {
+            "peso": 18,
+            "procesamiento": 420,
+            "tiempolimite": 1126,
+            "Tardanza": 159773,
+            "TiempoAcabado": 160899
+        },
+        "773": {
+            "peso": 90,
+            "procesamiento": 495,
+            "tiempolimite": 1126,
+            "Tardanza": 160268,
+            "TiempoAcabado": 161394
+        },
+        "827": {
+            "peso": 60,
+            "procesamiento": 446,
+            "tiempolimite": 1126,
+            "Tardanza": 160714,
+            "TiempoAcabado": 161840
+        },
+        "873": {
+            "peso": 1,
+            "procesamiento": 82,
+            "tiempolimite": 1126,
+            "Tardanza": 160796,
+            "TiempoAcabado": 161922
+        },
+        "967": {
+            "peso": 37,
+            "procesamiento": 68,
+            "tiempolimite": 1126,
+            "Tardanza": 160864,
+            "TiempoAcabado": 161990
+        },
+        "258": {
+            "peso": 56,
+            "procesamiento": 330,
+            "tiempolimite": 1127,
+            "Tardanza": 161193,
+            "TiempoAcabado": 162320
+        },
+        "298": {
+            "peso": 15,
+            "procesamiento": 417,
+            "tiempolimite": 1127,
+            "Tardanza": 161610,
+            "TiempoAcabado": 162737
+        },
+        "325": {
+            "peso": 69,
+            "procesamiento": 218,
+            "tiempolimite": 1128,
+            "Tardanza": 161827,
+            "TiempoAcabado": 162955
+        },
+        "144": {
+            "peso": 67,
+            "procesamiento": 153,
+            "tiempolimite": 1129,
+            "Tardanza": 161979,
+            "TiempoAcabado": 163108
+        },
+        "353": {
+            "peso": 85,
+            "procesamiento": 54,
+            "tiempolimite": 1129,
+            "Tardanza": 162033,
+            "TiempoAcabado": 163162
+        },
+        "740": {
+            "peso": 80,
+            "procesamiento": 108,
+            "tiempolimite": 1129,
+            "Tardanza": 162141,
+            "TiempoAcabado": 163270
+        },
+        "825": {
+            "peso": 15,
+            "procesamiento": 322,
+            "tiempolimite": 1129,
+            "Tardanza": 162463,
+            "TiempoAcabado": 163592
+        },
+        "866": {
+            "peso": 5,
+            "procesamiento": 149,
+            "tiempolimite": 1129,
+            "Tardanza": 162612,
+            "TiempoAcabado": 163741
+        },
+        "58": {
+            "peso": 35,
+            "procesamiento": 174,
+            "tiempolimite": 1130,
+            "Tardanza": 162785,
+            "TiempoAcabado": 163915
+        },
+        "314": {
+            "peso": 60,
+            "procesamiento": 255,
+            "tiempolimite": 1130,
+            "Tardanza": 163040,
+            "TiempoAcabado": 164170
+        },
+        "513": {
+            "peso": 65,
+            "procesamiento": 861,
+            "tiempolimite": 1131,
+            "Tardanza": 163900,
+            "TiempoAcabado": 165031
+        },
+        "970": {
+            "peso": 43,
+            "procesamiento": 425,
+            "tiempolimite": 1132,
+            "Tardanza": 164324,
+            "TiempoAcabado": 165456
+        },
+        "558": {
+            "peso": 65,
+            "procesamiento": 796,
+            "tiempolimite": 1133,
+            "Tardanza": 165119,
+            "TiempoAcabado": 166252
+        },
+        "645": {
+            "peso": 14,
+            "procesamiento": 635,
+            "tiempolimite": 1133,
+            "Tardanza": 165754,
+            "TiempoAcabado": 166887
+        },
+        "879": {
+            "peso": 43,
+            "procesamiento": 584,
+            "tiempolimite": 1133,
+            "Tardanza": 166338,
+            "TiempoAcabado": 167471
+        },
+        "850": {
+            "peso": 5,
+            "procesamiento": 766,
+            "tiempolimite": 1134,
+            "Tardanza": 167103,
+            "TiempoAcabado": 168237
+        },
+        "985": {
+            "peso": 6,
+            "procesamiento": 533,
+            "tiempolimite": 1134,
+            "Tardanza": 167636,
+            "TiempoAcabado": 168770
+        },
+        "726": {
+            "peso": 89,
+            "procesamiento": 7,
+            "tiempolimite": 1135,
+            "Tardanza": 167642,
+            "TiempoAcabado": 168777
+        },
+        "872": {
+            "peso": 42,
+            "procesamiento": 464,
+            "tiempolimite": 1135,
+            "Tardanza": 168106,
+            "TiempoAcabado": 169241
+        },
+        "989": {
+            "peso": 47,
+            "procesamiento": 357,
+            "tiempolimite": 1135,
+            "Tardanza": 168463,
+            "TiempoAcabado": 169598
+        },
+        "390": {
+            "peso": 7,
+            "procesamiento": 271,
+            "tiempolimite": 1136,
+            "Tardanza": 168733,
+            "TiempoAcabado": 169869
+        },
+        "749": {
+            "peso": 89,
+            "procesamiento": 656,
+            "tiempolimite": 1136,
+            "Tardanza": 169389,
+            "TiempoAcabado": 170525
+        },
+        "235": {
+            "peso": 33,
+            "procesamiento": 166,
+            "tiempolimite": 1137,
+            "Tardanza": 169554,
+            "TiempoAcabado": 170691
+        },
+        "708": {
+            "peso": 63,
+            "procesamiento": 636,
+            "tiempolimite": 1137,
+            "Tardanza": 170190,
+            "TiempoAcabado": 171327
+        },
+        "842": {
+            "peso": 18,
+            "procesamiento": 332,
+            "tiempolimite": 1137,
+            "Tardanza": 170522,
+            "TiempoAcabado": 171659
+        },
+        "900": {
+            "peso": 98,
+            "procesamiento": 419,
+            "tiempolimite": 1137,
+            "Tardanza": 170941,
+            "TiempoAcabado": 172078
+        },
+        "932": {
+            "peso": 75,
+            "procesamiento": 756,
+            "tiempolimite": 1137,
+            "Tardanza": 171697,
+            "TiempoAcabado": 172834
+        },
+        "941": {
+            "peso": 52,
+            "procesamiento": 156,
+            "tiempolimite": 1137,
+            "Tardanza": 171853,
+            "TiempoAcabado": 172990
+        },
+        "73": {
+            "peso": 26,
+            "procesamiento": 394,
+            "tiempolimite": 1138,
+            "Tardanza": 172246,
+            "TiempoAcabado": 173384
+        },
+        "556": {
+            "peso": 81,
+            "procesamiento": 353,
+            "tiempolimite": 1138,
+            "Tardanza": 172599,
+            "TiempoAcabado": 173737
+        },
+        "5": {
+            "peso": 62,
+            "procesamiento": 859,
+            "tiempolimite": 1139,
+            "Tardanza": 173457,
+            "TiempoAcabado": 174596
+        },
+        "152": {
+            "peso": 100,
+            "procesamiento": 143,
+            "tiempolimite": 1139,
+            "Tardanza": 173600,
+            "TiempoAcabado": 174739
+        },
+        "403": {
+            "peso": 94,
+            "procesamiento": 568,
+            "tiempolimite": 1140,
+            "Tardanza": 174167,
+            "TiempoAcabado": 175307
+        },
+        "576": {
+            "peso": 54,
+            "procesamiento": 264,
+            "tiempolimite": 1140,
+            "Tardanza": 174431,
+            "TiempoAcabado": 175571
+        },
+        "689": {
+            "peso": 35,
+            "procesamiento": 398,
+            "tiempolimite": 1140,
+            "Tardanza": 174829,
+            "TiempoAcabado": 175969
+        },
+        "722": {
+            "peso": 39,
+            "procesamiento": 218,
+            "tiempolimite": 1141,
+            "Tardanza": 175046,
+            "TiempoAcabado": 176187
+        },
+        "765": {
+            "peso": 66,
+            "procesamiento": 342,
+            "tiempolimite": 1141,
+            "Tardanza": 175388,
+            "TiempoAcabado": 176529
+        },
+        "373": {
+            "peso": 64,
+            "procesamiento": 687,
+            "tiempolimite": 1142,
+            "Tardanza": 176074,
+            "TiempoAcabado": 177216
+        },
+        "747": {
+            "peso": 2,
+            "procesamiento": 877,
+            "tiempolimite": 1142,
+            "Tardanza": 176951,
+            "TiempoAcabado": 178093
+        },
+        "157": {
+            "peso": 84,
+            "procesamiento": 249,
+            "tiempolimite": 1143,
+            "Tardanza": 177199,
+            "TiempoAcabado": 178342
+        },
+        "995": {
+            "peso": 45,
+            "procesamiento": 89,
+            "tiempolimite": 1144,
+            "Tardanza": 177287,
+            "TiempoAcabado": 178431
+        },
+        "36": {
+            "peso": 49,
+            "procesamiento": 846,
+            "tiempolimite": 1145,
+            "Tardanza": 178132,
+            "TiempoAcabado": 179277
+        },
+        "333": {
+            "peso": 2,
+            "procesamiento": 161,
+            "tiempolimite": 1145,
+            "Tardanza": 178293,
+            "TiempoAcabado": 179438
+        },
+        "663": {
+            "peso": 38,
+            "procesamiento": 718,
+            "tiempolimite": 1146,
+            "Tardanza": 179010,
+            "TiempoAcabado": 180156
+        },
+        "788": {
+            "peso": 74,
+            "procesamiento": 798,
+            "tiempolimite": 1146,
+            "Tardanza": 179808,
+            "TiempoAcabado": 180954
+        },
+        "209": {
+            "peso": 25,
+            "procesamiento": 554,
+            "tiempolimite": 1147,
+            "Tardanza": 180361,
+            "TiempoAcabado": 181508
+        },
+        "592": {
+            "peso": 62,
+            "procesamiento": 188,
+            "tiempolimite": 1147,
+            "Tardanza": 180549,
+            "TiempoAcabado": 181696
+        },
+        "727": {
+            "peso": 69,
+            "procesamiento": 290,
+            "tiempolimite": 1147,
+            "Tardanza": 180839,
+            "TiempoAcabado": 181986
+        },
+        "100": {
+            "peso": 99,
+            "procesamiento": 118,
+            "tiempolimite": 1148,
+            "Tardanza": 180956,
+            "TiempoAcabado": 182104
+        },
+        "251": {
+            "peso": 18,
+            "procesamiento": 55,
+            "tiempolimite": 1149,
+            "Tardanza": 181010,
+            "TiempoAcabado": 182159
+        },
+        "650": {
+            "peso": 58,
+            "procesamiento": 977,
+            "tiempolimite": 1149,
+            "Tardanza": 181987,
+            "TiempoAcabado": 183136
+        },
+        "234": {
+            "peso": 79,
+            "procesamiento": 256,
+            "tiempolimite": 1150,
+            "Tardanza": 182242,
+            "TiempoAcabado": 183392
+        },
+        "284": {
+            "peso": 90,
+            "procesamiento": 551,
+            "tiempolimite": 1150,
+            "Tardanza": 182793,
+            "TiempoAcabado": 183943
+        },
+        "397": {
+            "peso": 1,
+            "procesamiento": 529,
+            "tiempolimite": 1150,
+            "Tardanza": 183322,
+            "TiempoAcabado": 184472
+        },
+        "407": {
+            "peso": 77,
+            "procesamiento": 587,
+            "tiempolimite": 1150,
+            "Tardanza": 183909,
+            "TiempoAcabado": 185059
+        },
+        "456": {
+            "peso": 26,
+            "procesamiento": 345,
+            "tiempolimite": 1150,
+            "Tardanza": 184254,
+            "TiempoAcabado": 185404
+        },
+        "618": {
+            "peso": 52,
+            "procesamiento": 726,
+            "tiempolimite": 1150,
+            "Tardanza": 184980,
+            "TiempoAcabado": 186130
+        },
+        "204": {
+            "peso": 14,
+            "procesamiento": 523,
+            "tiempolimite": 1151,
+            "Tardanza": 185502,
+            "TiempoAcabado": 186653
+        },
+        "458": {
+            "peso": 14,
+            "procesamiento": 814,
+            "tiempolimite": 1152,
+            "Tardanza": 186315,
+            "TiempoAcabado": 187467
+        },
+        "15": {
+            "peso": 25,
+            "procesamiento": 791,
+            "tiempolimite": 1153,
+            "Tardanza": 187105,
+            "TiempoAcabado": 188258
+        },
+        "97": {
+            "peso": 15,
+            "procesamiento": 162,
+            "tiempolimite": 1153,
+            "Tardanza": 187267,
+            "TiempoAcabado": 188420
+        },
+        "311": {
+            "peso": 78,
+            "procesamiento": 484,
+            "tiempolimite": 1153,
+            "Tardanza": 187751,
+            "TiempoAcabado": 188904
+        },
+        "133": {
+            "peso": 19,
+            "procesamiento": 170,
+            "tiempolimite": 1154,
+            "Tardanza": 187920,
+            "TiempoAcabado": 189074
+        },
+        "511": {
+            "peso": 48,
+            "procesamiento": 677,
+            "tiempolimite": 1154,
+            "Tardanza": 188597,
+            "TiempoAcabado": 189751
+        },
+        "566": {
+            "peso": 8,
+            "procesamiento": 242,
+            "tiempolimite": 1154,
+            "Tardanza": 188839,
+            "TiempoAcabado": 189993
+        },
+        "338": {
+            "peso": 54,
+            "procesamiento": 122,
+            "tiempolimite": 1155,
+            "Tardanza": 188960,
+            "TiempoAcabado": 190115
+        },
+        "471": {
+            "peso": 45,
+            "procesamiento": 582,
+            "tiempolimite": 1156,
+            "Tardanza": 189541,
+            "TiempoAcabado": 190697
+        },
+        "662": {
+            "peso": 39,
+            "procesamiento": 96,
+            "tiempolimite": 1156,
+            "Tardanza": 189637,
+            "TiempoAcabado": 190793
+        },
+        "676": {
+            "peso": 19,
+            "procesamiento": 619,
+            "tiempolimite": 1156,
+            "Tardanza": 190256,
+            "TiempoAcabado": 191412
+        },
+        "98": {
+            "peso": 66,
+            "procesamiento": 329,
+            "tiempolimite": 1157,
+            "Tardanza": 190584,
+            "TiempoAcabado": 191741
+        },
+        "465": {
+            "peso": 58,
+            "procesamiento": 822,
+            "tiempolimite": 1157,
+            "Tardanza": 191406,
+            "TiempoAcabado": 192563
+        },
+        "155": {
+            "peso": 71,
+            "procesamiento": 692,
+            "tiempolimite": 1158,
+            "Tardanza": 192097,
+            "TiempoAcabado": 193255
+        },
+        "335": {
+            "peso": 5,
+            "procesamiento": 592,
+            "tiempolimite": 1158,
+            "Tardanza": 192689,
+            "TiempoAcabado": 193847
+        },
+        "451": {
+            "peso": 60,
+            "procesamiento": 502,
+            "tiempolimite": 1158,
+            "Tardanza": 193191,
+            "TiempoAcabado": 194349
+        },
+        "759": {
+            "peso": 13,
+            "procesamiento": 472,
+            "tiempolimite": 1159,
+            "Tardanza": 193662,
+            "TiempoAcabado": 194821
+        },
+        "894": {
+            "peso": 82,
+            "procesamiento": 350,
+            "tiempolimite": 1159,
+            "Tardanza": 194012,
+            "TiempoAcabado": 195171
+        },
+        "379": {
+            "peso": 41,
+            "procesamiento": 621,
+            "tiempolimite": 1160,
+            "Tardanza": 194632,
+            "TiempoAcabado": 195792
+        },
+        "724": {
+            "peso": 85,
+            "procesamiento": 257,
+            "tiempolimite": 1160,
+            "Tardanza": 194889,
+            "TiempoAcabado": 196049
+        },
+        "219": {
+            "peso": 93,
+            "procesamiento": 510,
+            "tiempolimite": 1161,
+            "Tardanza": 195398,
+            "TiempoAcabado": 196559
+        },
+        "632": {
+            "peso": 53,
+            "procesamiento": 151,
+            "tiempolimite": 1161,
+            "Tardanza": 195549,
+            "TiempoAcabado": 196710
+        },
+        "690": {
+            "peso": 51,
+            "procesamiento": 576,
+            "tiempolimite": 1161,
+            "Tardanza": 196125,
+            "TiempoAcabado": 197286
+        },
+        "964": {
+            "peso": 84,
+            "procesamiento": 540,
+            "tiempolimite": 1161,
+            "Tardanza": 196665,
+            "TiempoAcabado": 197826
+        },
+        "988": {
+            "peso": 41,
+            "procesamiento": 734,
+            "tiempolimite": 1161,
+            "Tardanza": 197399,
+            "TiempoAcabado": 198560
+        },
+        "646": {
+            "peso": 5,
+            "procesamiento": 355,
+            "tiempolimite": 1162,
+            "Tardanza": 197753,
+            "TiempoAcabado": 198915
+        },
+        "949": {
+            "peso": 83,
+            "procesamiento": 248,
+            "tiempolimite": 1162,
+            "Tardanza": 198001,
+            "TiempoAcabado": 199163
+        },
+        "38": {
+            "peso": 90,
+            "procesamiento": 85,
+            "tiempolimite": 1163,
+            "Tardanza": 198085,
+            "TiempoAcabado": 199248
+        },
+        "61": {
+            "peso": 10,
+            "procesamiento": 631,
+            "tiempolimite": 1163,
+            "Tardanza": 198716,
+            "TiempoAcabado": 199879
+        },
+        "154": {
+            "peso": 66,
+            "procesamiento": 416,
+            "tiempolimite": 1163,
+            "Tardanza": 199132,
+            "TiempoAcabado": 200295
+        },
+        "243": {
+            "peso": 60,
+            "procesamiento": 866,
+            "tiempolimite": 1164,
+            "Tardanza": 199997,
+            "TiempoAcabado": 201161
+        },
+        "527": {
+            "peso": 63,
+            "procesamiento": 601,
+            "tiempolimite": 1164,
+            "Tardanza": 200598,
+            "TiempoAcabado": 201762
+        },
+        "862": {
+            "peso": 36,
+            "procesamiento": 620,
+            "tiempolimite": 1164,
+            "Tardanza": 201218,
+            "TiempoAcabado": 202382
+        },
+        "283": {
+            "peso": 67,
+            "procesamiento": 638,
+            "tiempolimite": 1165,
+            "Tardanza": 201855,
+            "TiempoAcabado": 203020
+        },
+        "500": {
+            "peso": 67,
+            "procesamiento": 942,
+            "tiempolimite": 1165,
+            "Tardanza": 202797,
+            "TiempoAcabado": 203962
+        },
+        "246": {
+            "peso": 51,
+            "procesamiento": 121,
+            "tiempolimite": 1166,
+            "Tardanza": 202917,
+            "TiempoAcabado": 204083
+        },
+        "856": {
+            "peso": 15,
+            "procesamiento": 219,
+            "tiempolimite": 1166,
+            "Tardanza": 203136,
+            "TiempoAcabado": 204302
+        },
+        "28": {
+            "peso": 83,
+            "procesamiento": 35,
+            "tiempolimite": 1167,
+            "Tardanza": 203170,
+            "TiempoAcabado": 204337
+        },
+        "303": {
+            "peso": 86,
+            "procesamiento": 116,
+            "tiempolimite": 1167,
+            "Tardanza": 203286,
+            "TiempoAcabado": 204453
+        },
+        "549": {
+            "peso": 4,
+            "procesamiento": 885,
+            "tiempolimite": 1167,
+            "Tardanza": 204171,
+            "TiempoAcabado": 205338
+        },
+        "612": {
+            "peso": 24,
+            "procesamiento": 161,
+            "tiempolimite": 1167,
+            "Tardanza": 204332,
+            "TiempoAcabado": 205499
+        },
+        "983": {
+            "peso": 58,
+            "procesamiento": 931,
+            "tiempolimite": 1167,
+            "Tardanza": 205263,
+            "TiempoAcabado": 206430
+        },
+        "524": {
+            "peso": 41,
+            "procesamiento": 481,
+            "tiempolimite": 1168,
+            "Tardanza": 205743,
+            "TiempoAcabado": 206911
+        },
+        "26": {
+            "peso": 11,
+            "procesamiento": 364,
+            "tiempolimite": 1169,
+            "Tardanza": 206106,
+            "TiempoAcabado": 207275
+        },
+        "221": {
+            "peso": 34,
+            "procesamiento": 120,
+            "tiempolimite": 1169,
+            "Tardanza": 206226,
+            "TiempoAcabado": 207395
+        },
+        "244": {
+            "peso": 74,
+            "procesamiento": 292,
+            "tiempolimite": 1169,
+            "Tardanza": 206518,
+            "TiempoAcabado": 207687
+        },
+        "750": {
+            "peso": 49,
+            "procesamiento": 706,
+            "tiempolimite": 1169,
+            "Tardanza": 207224,
+            "TiempoAcabado": 208393
+        },
+        "63": {
+            "peso": 11,
+            "procesamiento": 759,
+            "tiempolimite": 1170,
+            "Tardanza": 207982,
+            "TiempoAcabado": 209152
+        },
+        "119": {
+            "peso": 53,
+            "procesamiento": 108,
+            "tiempolimite": 1170,
+            "Tardanza": 208090,
+            "TiempoAcabado": 209260
+        },
+        "768": {
+            "peso": 7,
+            "procesamiento": 973,
+            "tiempolimite": 1170,
+            "Tardanza": 209063,
+            "TiempoAcabado": 210233
+        },
+        "940": {
+            "peso": 59,
+            "procesamiento": 682,
+            "tiempolimite": 1170,
+            "Tardanza": 209745,
+            "TiempoAcabado": 210915
+        },
+        "91": {
+            "peso": 50,
+            "procesamiento": 839,
+            "tiempolimite": 1171,
+            "Tardanza": 210583,
+            "TiempoAcabado": 211754
+        },
+        "237": {
+            "peso": 68,
+            "procesamiento": 119,
+            "tiempolimite": 1171,
+            "Tardanza": 210702,
+            "TiempoAcabado": 211873
+        },
+        "463": {
+            "peso": 90,
+            "procesamiento": 461,
+            "tiempolimite": 1171,
+            "Tardanza": 211163,
+            "TiempoAcabado": 212334
+        },
+        "741": {
+            "peso": 76,
+            "procesamiento": 713,
+            "tiempolimite": 1171,
+            "Tardanza": 211876,
+            "TiempoAcabado": 213047
+        },
+        "962": {
+            "peso": 19,
+            "procesamiento": 132,
+            "tiempolimite": 1171,
+            "Tardanza": 212008,
+            "TiempoAcabado": 213179
+        },
+        "470": {
+            "peso": 59,
+            "procesamiento": 665,
+            "tiempolimite": 1173,
+            "Tardanza": 212671,
+            "TiempoAcabado": 213844
+        },
+        "822": {
+            "peso": 94,
+            "procesamiento": 954,
+            "tiempolimite": 1173,
+            "Tardanza": 213625,
+            "TiempoAcabado": 214798
+        },
+        "849": {
+            "peso": 86,
+            "procesamiento": 350,
+            "tiempolimite": 1173,
+            "Tardanza": 213975,
+            "TiempoAcabado": 215148
+        },
+        "976": {
+            "peso": 14,
+            "procesamiento": 135,
+            "tiempolimite": 1173,
+            "Tardanza": 214110,
+            "TiempoAcabado": 215283
+        },
+        "126": {
+            "peso": 6,
+            "procesamiento": 380,
+            "tiempolimite": 1174,
+            "Tardanza": 214489,
+            "TiempoAcabado": 215663
+        },
+        "599": {
+            "peso": 43,
+            "procesamiento": 347,
+            "tiempolimite": 1174,
+            "Tardanza": 214836,
+            "TiempoAcabado": 216010
+        },
+        "615": {
+            "peso": 27,
+            "procesamiento": 39,
+            "tiempolimite": 1174,
+            "Tardanza": 214875,
+            "TiempoAcabado": 216049
+        },
+        "860": {
+            "peso": 50,
+            "procesamiento": 936,
+            "tiempolimite": 1174,
+            "Tardanza": 215811,
+            "TiempoAcabado": 216985
+        },
+        "882": {
+            "peso": 34,
+            "procesamiento": 985,
+            "tiempolimite": 1174,
+            "Tardanza": 216796,
+            "TiempoAcabado": 217970
+        },
+        "904": {
+            "peso": 83,
+            "procesamiento": 282,
+            "tiempolimite": 1174,
+            "Tardanza": 217078,
+            "TiempoAcabado": 218252
+        },
+        "328": {
+            "peso": 65,
+            "procesamiento": 841,
+            "tiempolimite": 1175,
+            "Tardanza": 217918,
+            "TiempoAcabado": 219093
+        },
+        "642": {
+            "peso": 45,
+            "procesamiento": 946,
+            "tiempolimite": 1176,
+            "Tardanza": 218863,
+            "TiempoAcabado": 220039
+        },
+        "742": {
+            "peso": 84,
+            "procesamiento": 228,
+            "tiempolimite": 1176,
+            "Tardanza": 219091,
+            "TiempoAcabado": 220267
+        },
+        "896": {
+            "peso": 47,
+            "procesamiento": 564,
+            "tiempolimite": 1177,
+            "Tardanza": 219654,
+            "TiempoAcabado": 220831
+        },
+        "147": {
+            "peso": 40,
+            "procesamiento": 479,
+            "tiempolimite": 1178,
+            "Tardanza": 220132,
+            "TiempoAcabado": 221310
+        },
+        "424": {
+            "peso": 90,
+            "procesamiento": 243,
+            "tiempolimite": 1178,
+            "Tardanza": 220375,
+            "TiempoAcabado": 221553
+        },
+        "553": {
+            "peso": 7,
+            "procesamiento": 769,
+            "tiempolimite": 1178,
+            "Tardanza": 221144,
+            "TiempoAcabado": 222322
+        },
+        "815": {
+            "peso": 18,
+            "procesamiento": 431,
+            "tiempolimite": 1178,
+            "Tardanza": 221575,
+            "TiempoAcabado": 222753
+        },
+        "87": {
+            "peso": 41,
+            "procesamiento": 447,
+            "tiempolimite": 1179,
+            "Tardanza": 222021,
+            "TiempoAcabado": 223200
+        },
+        "20": {
+            "peso": 53,
+            "procesamiento": 624,
+            "tiempolimite": 1180,
+            "Tardanza": 222644,
+            "TiempoAcabado": 223824
+        },
+        "262": {
+            "peso": 82,
+            "procesamiento": 402,
+            "tiempolimite": 1180,
+            "Tardanza": 223046,
+            "TiempoAcabado": 224226
+        },
+        "442": {
+            "peso": 85,
+            "procesamiento": 394,
+            "tiempolimite": 1180,
+            "Tardanza": 223440,
+            "TiempoAcabado": 224620
+        },
+        "802": {
+            "peso": 37,
+            "procesamiento": 207,
+            "tiempolimite": 1180,
+            "Tardanza": 223647,
+            "TiempoAcabado": 224827
+        },
+        "275": {
+            "peso": 94,
+            "procesamiento": 234,
+            "tiempolimite": 1181,
+            "Tardanza": 223880,
+            "TiempoAcabado": 225061
+        },
+        "625": {
+            "peso": 28,
+            "procesamiento": 976,
+            "tiempolimite": 1181,
+            "Tardanza": 224856,
+            "TiempoAcabado": 226037
+        },
+        "641": {
+            "peso": 1,
+            "procesamiento": 857,
+            "tiempolimite": 1181,
+            "Tardanza": 225713,
+            "TiempoAcabado": 226894
+        },
+        "763": {
+            "peso": 25,
+            "procesamiento": 865,
+            "tiempolimite": 1181,
+            "Tardanza": 226578,
+            "TiempoAcabado": 227759
+        },
+        "161": {
+            "peso": 76,
+            "procesamiento": 945,
+            "tiempolimite": 1182,
+            "Tardanza": 227522,
+            "TiempoAcabado": 228704
+        },
+        "614": {
+            "peso": 84,
+            "procesamiento": 630,
+            "tiempolimite": 1182,
+            "Tardanza": 228152,
+            "TiempoAcabado": 229334
+        },
+        "139": {
+            "peso": 78,
+            "procesamiento": 977,
+            "tiempolimite": 1183,
+            "Tardanza": 229128,
+            "TiempoAcabado": 230311
+        },
+        "472": {
+            "peso": 62,
+            "procesamiento": 881,
+            "tiempolimite": 1183,
+            "Tardanza": 230009,
+            "TiempoAcabado": 231192
+        },
+        "483": {
+            "peso": 61,
+            "procesamiento": 8,
+            "tiempolimite": 1184,
+            "Tardanza": 230016,
+            "TiempoAcabado": 231200
+        },
+        "979": {
+            "peso": 45,
+            "procesamiento": 108,
+            "tiempolimite": 1184,
+            "Tardanza": 230124,
+            "TiempoAcabado": 231308
+        },
+        "490": {
+            "peso": 67,
+            "procesamiento": 848,
+            "tiempolimite": 1185,
+            "Tardanza": 230971,
+            "TiempoAcabado": 232156
+        },
+        "777": {
+            "peso": 41,
+            "procesamiento": 60,
+            "tiempolimite": 1185,
+            "Tardanza": 231031,
+            "TiempoAcabado": 232216
+        },
+        "378": {
+            "peso": 93,
+            "procesamiento": 924,
+            "tiempolimite": 1186,
+            "Tardanza": 231954,
+            "TiempoAcabado": 233140
+        },
+        "611": {
+            "peso": 4,
+            "procesamiento": 43,
+            "tiempolimite": 1186,
+            "Tardanza": 231997,
+            "TiempoAcabado": 233183
+        },
+        "308": {
+            "peso": 33,
+            "procesamiento": 354,
+            "tiempolimite": 1187,
+            "Tardanza": 232350,
+            "TiempoAcabado": 233537
+        },
+        "767": {
+            "peso": 14,
+            "procesamiento": 386,
+            "tiempolimite": 1187,
+            "Tardanza": 232736,
+            "TiempoAcabado": 233923
+        },
+        "776": {
+            "peso": 4,
+            "procesamiento": 850,
+            "tiempolimite": 1187,
+            "Tardanza": 233586,
+            "TiempoAcabado": 234773
+        },
+        "175": {
+            "peso": 3,
+            "procesamiento": 899,
+            "tiempolimite": 1188,
+            "Tardanza": 234484,
+            "TiempoAcabado": 235672
+        },
+        "67": {
+            "peso": 8,
+            "procesamiento": 304,
+            "tiempolimite": 1189,
+            "Tardanza": 234787,
+            "TiempoAcabado": 235976
+        },
+        "191": {
+            "peso": 84,
+            "procesamiento": 77,
+            "tiempolimite": 1189,
+            "Tardanza": 234864,
+            "TiempoAcabado": 236053
+        },
+        "286": {
+            "peso": 45,
+            "procesamiento": 80,
+            "tiempolimite": 1189,
+            "Tardanza": 234944,
+            "TiempoAcabado": 236133
+        },
+        "409": {
+            "peso": 41,
+            "procesamiento": 835,
+            "tiempolimite": 1189,
+            "Tardanza": 235779,
+            "TiempoAcabado": 236968
+        },
+        "572": {
+            "peso": 78,
+            "procesamiento": 109,
+            "tiempolimite": 1189,
+            "Tardanza": 235888,
+            "TiempoAcabado": 237077
+        },
+        "151": {
+            "peso": 60,
+            "procesamiento": 634,
+            "tiempolimite": 1190,
+            "Tardanza": 236521,
+            "TiempoAcabado": 237711
+        },
+        "240": {
+            "peso": 11,
+            "procesamiento": 821,
+            "tiempolimite": 1190,
+            "Tardanza": 237342,
+            "TiempoAcabado": 238532
+        },
+        "345": {
+            "peso": 76,
+            "procesamiento": 733,
+            "tiempolimite": 1190,
+            "Tardanza": 238075,
+            "TiempoAcabado": 239265
+        },
+        "96": {
+            "peso": 70,
+            "procesamiento": 235,
+            "tiempolimite": 1191,
+            "Tardanza": 238309,
+            "TiempoAcabado": 239500
+        },
+        "631": {
+            "peso": 57,
+            "procesamiento": 359,
+            "tiempolimite": 1191,
+            "Tardanza": 238668,
+            "TiempoAcabado": 239859
+        },
+        "107": {
+            "peso": 75,
+            "procesamiento": 126,
+            "tiempolimite": 1192,
+            "Tardanza": 238793,
+            "TiempoAcabado": 239985
+        },
+        "771": {
+            "peso": 15,
+            "procesamiento": 835,
+            "tiempolimite": 1192,
+            "Tardanza": 239628,
+            "TiempoAcabado": 240820
+        },
+        "844": {
+            "peso": 10,
+            "procesamiento": 496,
+            "tiempolimite": 1192,
+            "Tardanza": 240124,
+            "TiempoAcabado": 241316
+        },
+        "268": {
+            "peso": 18,
+            "procesamiento": 868,
+            "tiempolimite": 1193,
+            "Tardanza": 240991,
+            "TiempoAcabado": 242184
+        },
+        "478": {
+            "peso": 15,
+            "procesamiento": 113,
+            "tiempolimite": 1193,
+            "Tardanza": 241104,
+            "TiempoAcabado": 242297
+        },
+        "521": {
+            "peso": 72,
+            "procesamiento": 415,
+            "tiempolimite": 1193,
+            "Tardanza": 241519,
+            "TiempoAcabado": 242712
+        },
+        "801": {
+            "peso": 19,
+            "procesamiento": 30,
+            "tiempolimite": 1194,
+            "Tardanza": 241548,
+            "TiempoAcabado": 242742
+        },
+        "112": {
+            "peso": 87,
+            "procesamiento": 506,
+            "tiempolimite": 1195,
+            "Tardanza": 242053,
+            "TiempoAcabado": 243248
+        },
+        "194": {
+            "peso": 22,
+            "procesamiento": 432,
+            "tiempolimite": 1195,
+            "Tardanza": 242485,
+            "TiempoAcabado": 243680
+        },
+        "847": {
+            "peso": 45,
+            "procesamiento": 258,
+            "tiempolimite": 1196,
+            "Tardanza": 242742,
+            "TiempoAcabado": 243938
+        },
+        "300": {
+            "peso": 6,
+            "procesamiento": 661,
+            "tiempolimite": 1197,
+            "Tardanza": 243402,
+            "TiempoAcabado": 244599
+        },
+        "309": {
+            "peso": 44,
+            "procesamiento": 545,
+            "tiempolimite": 1197,
+            "Tardanza": 243947,
+            "TiempoAcabado": 245144
+        },
+        "880": {
+            "peso": 50,
+            "procesamiento": 421,
+            "tiempolimite": 1197,
+            "Tardanza": 244368,
+            "TiempoAcabado": 245565
+        },
+        "939": {
+            "peso": 96,
+            "procesamiento": 990,
+            "tiempolimite": 1197,
+            "Tardanza": 245358,
+            "TiempoAcabado": 246555
+        },
+        "598": {
+            "peso": 26,
+            "procesamiento": 817,
+            "tiempolimite": 1198,
+            "Tardanza": 246174,
+            "TiempoAcabado": 247372
+        },
+        "710": {
+            "peso": 50,
+            "procesamiento": 228,
+            "tiempolimite": 1198,
+            "Tardanza": 246402,
+            "TiempoAcabado": 247600
+        },
+        "588": {
+            "peso": 59,
+            "procesamiento": 460,
+            "tiempolimite": 1199,
+            "Tardanza": 246861,
+            "TiempoAcabado": 248060
+        },
+        "591": {
+            "peso": 14,
+            "procesamiento": 511,
+            "tiempolimite": 1199,
+            "Tardanza": 247372,
+            "TiempoAcabado": 248571
+        },
+        "635": {
+            "peso": 41,
+            "procesamiento": 911,
+            "tiempolimite": 1199,
+            "Tardanza": 248283,
+            "TiempoAcabado": 249482
+        },
+        "895": {
+            "peso": 51,
+            "procesamiento": 909,
+            "tiempolimite": 1199,
+            "Tardanza": 249192,
+            "TiempoAcabado": 250391
+        },
+        "918": {
+            "peso": 40,
+            "procesamiento": 90,
+            "tiempolimite": 1199,
+            "Tardanza": 249282,
+            "TiempoAcabado": 250481
+        },
+        "994": {
+            "peso": 77,
+            "procesamiento": 542,
+            "tiempolimite": 1199,
+            "Tardanza": 249824,
+            "TiempoAcabado": 251023
+        },
+        "117": {
+            "peso": 96,
+            "procesamiento": 700,
+            "tiempolimite": 1200,
+            "Tardanza": 250523,
+            "TiempoAcabado": 251723
+        },
+        "528": {
+            "peso": 88,
+            "procesamiento": 763,
+            "tiempolimite": 1200,
+            "Tardanza": 251286,
+            "TiempoAcabado": 252486
+        },
+        "367": {
+            "peso": 35,
+            "procesamiento": 167,
+            "tiempolimite": 1201,
+            "Tardanza": 251452,
+            "TiempoAcabado": 252653
+        },
+        "723": {
+            "peso": 50,
+            "procesamiento": 805,
+            "tiempolimite": 1201,
+            "Tardanza": 252257,
+            "TiempoAcabado": 253458
+        },
+        "182": {
+            "peso": 59,
+            "procesamiento": 76,
+            "tiempolimite": 1202,
+            "Tardanza": 252332,
+            "TiempoAcabado": 253534
+        },
+        "364": {
+            "peso": 12,
+            "procesamiento": 312,
+            "tiempolimite": 1202,
+            "Tardanza": 252644,
+            "TiempoAcabado": 253846
+        },
+        "622": {
+            "peso": 27,
+            "procesamiento": 881,
+            "tiempolimite": 1202,
+            "Tardanza": 253525,
+            "TiempoAcabado": 254727
+        },
+        "263": {
+            "peso": 46,
+            "procesamiento": 569,
+            "tiempolimite": 1203,
+            "Tardanza": 254093,
+            "TiempoAcabado": 255296
+        },
+        "369": {
+            "peso": 33,
+            "procesamiento": 546,
+            "tiempolimite": 1203,
+            "Tardanza": 254639,
+            "TiempoAcabado": 255842
+        },
+        "158": {
+            "peso": 67,
+            "procesamiento": 437,
+            "tiempolimite": 1204,
+            "Tardanza": 255075,
+            "TiempoAcabado": 256279
+        },
+        "417": {
+            "peso": 9,
+            "procesamiento": 270,
+            "tiempolimite": 1204,
+            "Tardanza": 255345,
+            "TiempoAcabado": 256549
+        },
+        "481": {
+            "peso": 91,
+            "procesamiento": 878,
+            "tiempolimite": 1204,
+            "Tardanza": 256223,
+            "TiempoAcabado": 257427
+        },
+        "9": {
+            "peso": 5,
+            "procesamiento": 877,
+            "tiempolimite": 1205,
+            "Tardanza": 257099,
+            "TiempoAcabado": 258304
+        },
+        "167": {
+            "peso": 79,
+            "procesamiento": 979,
+            "tiempolimite": 1205,
+            "Tardanza": 258078,
+            "TiempoAcabado": 259283
+        },
+        "352": {
+            "peso": 3,
+            "procesamiento": 53,
+            "tiempolimite": 1205,
+            "Tardanza": 258131,
+            "TiempoAcabado": 259336
+        },
+        "853": {
+            "peso": 54,
+            "procesamiento": 188,
+            "tiempolimite": 1206,
+            "Tardanza": 258318,
+            "TiempoAcabado": 259524
+        },
+        "70": {
+            "peso": 42,
+            "procesamiento": 770,
+            "tiempolimite": 1208,
+            "Tardanza": 259086,
+            "TiempoAcabado": 260294
+        },
+        "188": {
+            "peso": 98,
+            "procesamiento": 150,
+            "tiempolimite": 1208,
+            "Tardanza": 259236,
+            "TiempoAcabado": 260444
+        },
+        "745": {
+            "peso": 30,
+            "procesamiento": 268,
+            "tiempolimite": 1208,
+            "Tardanza": 259504,
+            "TiempoAcabado": 260712
+        },
+        "799": {
+            "peso": 5,
+            "procesamiento": 225,
+            "tiempolimite": 1208,
+            "Tardanza": 259729,
+            "TiempoAcabado": 260937
+        },
+        "620": {
+            "peso": 91,
+            "procesamiento": 196,
+            "tiempolimite": 1209,
+            "Tardanza": 259924,
+            "TiempoAcabado": 261133
+        },
+        "84": {
+            "peso": 8,
+            "procesamiento": 702,
+            "tiempolimite": 1210,
+            "Tardanza": 260625,
+            "TiempoAcabado": 261835
+        },
+        "86": {
+            "peso": 35,
+            "procesamiento": 997,
+            "tiempolimite": 1210,
+            "Tardanza": 261622,
+            "TiempoAcabado": 262832
+        },
+        "195": {
+            "peso": 13,
+            "procesamiento": 466,
+            "tiempolimite": 1210,
+            "Tardanza": 262088,
+            "TiempoAcabado": 263298
+        },
+        "301": {
+            "peso": 82,
+            "procesamiento": 663,
+            "tiempolimite": 1210,
+            "Tardanza": 262751,
+            "TiempoAcabado": 263961
+        },
+        "413": {
+            "peso": 60,
+            "procesamiento": 458,
+            "tiempolimite": 1210,
+            "Tardanza": 263209,
+            "TiempoAcabado": 264419
+        },
+        "437": {
+            "peso": 66,
+            "procesamiento": 231,
+            "tiempolimite": 1210,
+            "Tardanza": 263440,
+            "TiempoAcabado": 264650
+        },
+        "628": {
+            "peso": 45,
+            "procesamiento": 190,
+            "tiempolimite": 1210,
+            "Tardanza": 263630,
+            "TiempoAcabado": 264840
+        },
+        "770": {
+            "peso": 93,
+            "procesamiento": 946,
+            "tiempolimite": 1210,
+            "Tardanza": 264576,
+            "TiempoAcabado": 265786
+        },
+        "197": {
+            "peso": 70,
+            "procesamiento": 309,
+            "tiempolimite": 1211,
+            "Tardanza": 264884,
+            "TiempoAcabado": 266095
+        },
+        "439": {
+            "peso": 27,
+            "procesamiento": 117,
+            "tiempolimite": 1211,
+            "Tardanza": 265001,
+            "TiempoAcabado": 266212
+        },
+        "498": {
+            "peso": 18,
+            "procesamiento": 735,
+            "tiempolimite": 1211,
+            "Tardanza": 265736,
+            "TiempoAcabado": 266947
+        },
+        "82": {
+            "peso": 11,
+            "procesamiento": 144,
+            "tiempolimite": 1212,
+            "Tardanza": 265879,
+            "TiempoAcabado": 267091
+        },
+        "594": {
+            "peso": 24,
+            "procesamiento": 576,
+            "tiempolimite": 1212,
+            "Tardanza": 266455,
+            "TiempoAcabado": 267667
+        },
+        "905": {
+            "peso": 45,
+            "procesamiento": 334,
+            "tiempolimite": 1212,
+            "Tardanza": 266789,
+            "TiempoAcabado": 268001
+        },
+        "170": {
+            "peso": 47,
+            "procesamiento": 769,
+            "tiempolimite": 1213,
+            "Tardanza": 267557,
+            "TiempoAcabado": 268770
+        },
+        "224": {
+            "peso": 91,
+            "procesamiento": 681,
+            "tiempolimite": 1213,
+            "Tardanza": 268238,
+            "TiempoAcabado": 269451
+        },
+        "427": {
+            "peso": 38,
+            "procesamiento": 312,
+            "tiempolimite": 1213,
+            "Tardanza": 268550,
+            "TiempoAcabado": 269763
+        },
+        "728": {
+            "peso": 44,
+            "procesamiento": 974,
+            "tiempolimite": 1213,
+            "Tardanza": 269524,
+            "TiempoAcabado": 270737
+        },
+        "514": {
+            "peso": 96,
+            "procesamiento": 84,
+            "tiempolimite": 1214,
+            "Tardanza": 269607,
+            "TiempoAcabado": 270821
+        },
+        "57": {
+            "peso": 60,
+            "procesamiento": 21,
+            "tiempolimite": 1215,
+            "Tardanza": 269627,
+            "TiempoAcabado": 270842
+        },
+        "66": {
+            "peso": 38,
+            "procesamiento": 223,
+            "tiempolimite": 1215,
+            "Tardanza": 269850,
+            "TiempoAcabado": 271065
+        },
+        "675": {
+            "peso": 51,
+            "procesamiento": 147,
+            "tiempolimite": 1215,
+            "Tardanza": 269997,
+            "TiempoAcabado": 271212
+        },
+        "89": {
+            "peso": 70,
+            "procesamiento": 935,
+            "tiempolimite": 1216,
+            "Tardanza": 270931,
+            "TiempoAcabado": 272147
+        },
+        "343": {
+            "peso": 76,
+            "procesamiento": 992,
+            "tiempolimite": 1216,
+            "Tardanza": 271923,
+            "TiempoAcabado": 273139
+        },
+        "718": {
+            "peso": 88,
+            "procesamiento": 657,
+            "tiempolimite": 1216,
+            "Tardanza": 272580,
+            "TiempoAcabado": 273796
+        },
+        "319": {
+            "peso": 16,
+            "procesamiento": 623,
+            "tiempolimite": 1217,
+            "Tardanza": 273202,
+            "TiempoAcabado": 274419
+        },
+        "806": {
+            "peso": 9,
+            "procesamiento": 400,
+            "tiempolimite": 1217,
+            "Tardanza": 273602,
+            "TiempoAcabado": 274819
+        },
+        "510": {
+            "peso": 52,
+            "procesamiento": 890,
+            "tiempolimite": 1218,
+            "Tardanza": 274491,
+            "TiempoAcabado": 275709
+        },
+        "575": {
+            "peso": 61,
+            "procesamiento": 999,
+            "tiempolimite": 1219,
+            "Tardanza": 275489,
+            "TiempoAcabado": 276708
+        },
+        "975": {
+            "peso": 26,
+            "procesamiento": 138,
+            "tiempolimite": 1219,
+            "Tardanza": 275627,
+            "TiempoAcabado": 276846
+        },
+        "996": {
+            "peso": 46,
+            "procesamiento": 597,
+            "tiempolimite": 1219,
+            "Tardanza": 276224,
+            "TiempoAcabado": 277443
+        },
+        "123": {
+            "peso": 19,
+            "procesamiento": 483,
+            "tiempolimite": 1220,
+            "Tardanza": 276706,
+            "TiempoAcabado": 277926
+        },
+        "865": {
+            "peso": 21,
+            "procesamiento": 698,
+            "tiempolimite": 1220,
+            "Tardanza": 277404,
+            "TiempoAcabado": 278624
+        },
+        "963": {
+            "peso": 62,
+            "procesamiento": 470,
+            "tiempolimite": 1220,
+            "Tardanza": 277874,
+            "TiempoAcabado": 279094
+        },
+        "401": {
+            "peso": 7,
+            "procesamiento": 602,
+            "tiempolimite": 1221,
+            "Tardanza": 278475,
+            "TiempoAcabado": 279696
+        },
+        "703": {
+            "peso": 30,
+            "procesamiento": 511,
+            "tiempolimite": 1221,
+            "Tardanza": 278986,
+            "TiempoAcabado": 280207
+        },
+        "914": {
+            "peso": 57,
+            "procesamiento": 954,
+            "tiempolimite": 1221,
+            "Tardanza": 279940,
+            "TiempoAcabado": 281161
+        },
+        "971": {
+            "peso": 12,
+            "procesamiento": 461,
+            "tiempolimite": 1221,
+            "Tardanza": 280401,
+            "TiempoAcabado": 281622
+        },
+        "174": {
+            "peso": 57,
+            "procesamiento": 116,
+            "tiempolimite": 1222,
+            "Tardanza": 280516,
+            "TiempoAcabado": 281738
+        },
+        "280": {
+            "peso": 24,
+            "procesamiento": 204,
+            "tiempolimite": 1222,
+            "Tardanza": 280720,
+            "TiempoAcabado": 281942
+        },
+        "986": {
+            "peso": 3,
+            "procesamiento": 343,
+            "tiempolimite": 1222,
+            "Tardanza": 281063,
+            "TiempoAcabado": 282285
+        },
+        "43": {
+            "peso": 15,
+            "procesamiento": 636,
+            "tiempolimite": 1223,
+            "Tardanza": 281698,
+            "TiempoAcabado": 282921
+        },
+        "265": {
+            "peso": 17,
+            "procesamiento": 965,
+            "tiempolimite": 1223,
+            "Tardanza": 282663,
+            "TiempoAcabado": 283886
+        },
+        "474": {
+            "peso": 59,
+            "procesamiento": 963,
+            "tiempolimite": 1223,
+            "Tardanza": 283626,
+            "TiempoAcabado": 284849
+        },
+        "530": {
+            "peso": 49,
+            "procesamiento": 383,
+            "tiempolimite": 1223,
+            "Tardanza": 284009,
+            "TiempoAcabado": 285232
+        },
+        "840": {
+            "peso": 87,
+            "procesamiento": 899,
+            "tiempolimite": 1223,
+            "Tardanza": 284908,
+            "TiempoAcabado": 286131
+        },
+        "129": {
+            "peso": 71,
+            "procesamiento": 148,
+            "tiempolimite": 1224,
+            "Tardanza": 285055,
+            "TiempoAcabado": 286279
+        },
+        "432": {
+            "peso": 22,
+            "procesamiento": 656,
+            "tiempolimite": 1224,
+            "Tardanza": 285711,
+            "TiempoAcabado": 286935
+        },
+        "274": {
+            "peso": 45,
+            "procesamiento": 776,
+            "tiempolimite": 1225,
+            "Tardanza": 286486,
+            "TiempoAcabado": 287711
+        },
+        "616": {
+            "peso": 2,
+            "procesamiento": 315,
+            "tiempolimite": 1225,
+            "Tardanza": 286801,
+            "TiempoAcabado": 288026
+        },
+        "253": {
+            "peso": 7,
+            "procesamiento": 745,
+            "tiempolimite": 1226,
+            "Tardanza": 287545,
+            "TiempoAcabado": 288771
+        },
+        "296": {
+            "peso": 39,
+            "procesamiento": 60,
+            "tiempolimite": 1226,
+            "Tardanza": 287605,
+            "TiempoAcabado": 288831
+        },
+        "344": {
+            "peso": 37,
+            "procesamiento": 457,
+            "tiempolimite": 1226,
+            "Tardanza": 288062,
+            "TiempoAcabado": 289288
+        },
+        "574": {
+            "peso": 15,
+            "procesamiento": 256,
+            "tiempolimite": 1226,
+            "Tardanza": 288318,
+            "TiempoAcabado": 289544
+        },
+        "643": {
+            "peso": 54,
+            "procesamiento": 360,
+            "tiempolimite": 1226,
+            "Tardanza": 288678,
+            "TiempoAcabado": 289904
+        },
+        "920": {
+            "peso": 67,
+            "procesamiento": 217,
+            "tiempolimite": 1227,
+            "Tardanza": 288894,
+            "TiempoAcabado": 290121
+        },
+        "287": {
+            "peso": 77,
+            "procesamiento": 523,
+            "tiempolimite": 1228,
+            "Tardanza": 289416,
+            "TiempoAcabado": 290644
+        },
+        "31": {
+            "peso": 16,
+            "procesamiento": 642,
+            "tiempolimite": 1230,
+            "Tardanza": 290056,
+            "TiempoAcabado": 291286
+        },
+        "366": {
+            "peso": 98,
+            "procesamiento": 524,
+            "tiempolimite": 1230,
+            "Tardanza": 290580,
+            "TiempoAcabado": 291810
+        },
+        "544": {
+            "peso": 14,
+            "procesamiento": 983,
+            "tiempolimite": 1230,
+            "Tardanza": 291563,
+            "TiempoAcabado": 292793
+        },
+        "149": {
+            "peso": 88,
+            "procesamiento": 758,
+            "tiempolimite": 1231,
+            "Tardanza": 292320,
+            "TiempoAcabado": 293551
+        },
+        "484": {
+            "peso": 78,
+            "procesamiento": 957,
+            "tiempolimite": 1231,
+            "Tardanza": 293277,
+            "TiempoAcabado": 294508
+        },
+        "791": {
+            "peso": 76,
+            "procesamiento": 916,
+            "tiempolimite": 1231,
+            "Tardanza": 294193,
+            "TiempoAcabado": 295424
+        },
+        "980": {
+            "peso": 89,
+            "procesamiento": 874,
+            "tiempolimite": 1231,
+            "Tardanza": 295067,
+            "TiempoAcabado": 296298
+        },
+        "45": {
+            "peso": 71,
+            "procesamiento": 195,
+            "tiempolimite": 1232,
+            "Tardanza": 295261,
+            "TiempoAcabado": 296493
+        },
+        "443": {
+            "peso": 64,
+            "procesamiento": 617,
+            "tiempolimite": 1232,
+            "Tardanza": 295878,
+            "TiempoAcabado": 297110
+        },
+        "752": {
+            "peso": 52,
+            "procesamiento": 355,
+            "tiempolimite": 1232,
+            "Tardanza": 296233,
+            "TiempoAcabado": 297465
+        },
+        "754": {
+            "peso": 64,
+            "procesamiento": 16,
+            "tiempolimite": 1232,
+            "Tardanza": 296249,
+            "TiempoAcabado": 297481
+        },
+        "795": {
+            "peso": 28,
+            "procesamiento": 376,
+            "tiempolimite": 1232,
+            "Tardanza": 296625,
+            "TiempoAcabado": 297857
+        },
+        "140": {
+            "peso": 10,
+            "procesamiento": 465,
+            "tiempolimite": 1233,
+            "Tardanza": 297089,
+            "TiempoAcabado": 298322
+        },
+        "396": {
+            "peso": 38,
+            "procesamiento": 305,
+            "tiempolimite": 1233,
+            "Tardanza": 297394,
+            "TiempoAcabado": 298627
+        },
+        "719": {
+            "peso": 29,
+            "procesamiento": 765,
+            "tiempolimite": 1233,
+            "Tardanza": 298159,
+            "TiempoAcabado": 299392
+        },
+        "945": {
+            "peso": 8,
+            "procesamiento": 314,
+            "tiempolimite": 1233,
+            "Tardanza": 298473,
+            "TiempoAcabado": 299706
+        },
+        "362": {
+            "peso": 88,
+            "procesamiento": 747,
+            "tiempolimite": 1234,
+            "Tardanza": 299219,
+            "TiempoAcabado": 300453
+        },
+        "864": {
+            "peso": 81,
+            "procesamiento": 839,
+            "tiempolimite": 1234,
+            "Tardanza": 300058,
+            "TiempoAcabado": 301292
+        },
+        "30": {
+            "peso": 50,
+            "procesamiento": 241,
+            "tiempolimite": 1235,
+            "Tardanza": 300298,
+            "TiempoAcabado": 301533
+        },
+        "375": {
+            "peso": 10,
+            "procesamiento": 800,
+            "tiempolimite": 1235,
+            "Tardanza": 301098,
+            "TiempoAcabado": 302333
+        },
+        "450": {
+            "peso": 82,
+            "procesamiento": 271,
+            "tiempolimite": 1235,
+            "Tardanza": 301369,
+            "TiempoAcabado": 302604
+        },
+        "445": {
+            "peso": 85,
+            "procesamiento": 115,
+            "tiempolimite": 1236,
+            "Tardanza": 301483,
+            "TiempoAcabado": 302719
+        },
+        "205": {
+            "peso": 8,
+            "procesamiento": 973,
+            "tiempolimite": 1237,
+            "Tardanza": 302455,
+            "TiempoAcabado": 303692
+        },
+        "461": {
+            "peso": 76,
+            "procesamiento": 416,
+            "tiempolimite": 1237,
+            "Tardanza": 302871,
+            "TiempoAcabado": 304108
+        },
+        "673": {
+            "peso": 71,
+            "procesamiento": 17,
+            "tiempolimite": 1237,
+            "Tardanza": 302888,
+            "TiempoAcabado": 304125
+        },
+        "600": {
+            "peso": 36,
+            "procesamiento": 919,
+            "tiempolimite": 1240,
+            "Tardanza": 303804,
+            "TiempoAcabado": 305044
+        },
+        "669": {
+            "peso": 28,
+            "procesamiento": 27,
+            "tiempolimite": 1240,
+            "Tardanza": 303831,
+            "TiempoAcabado": 305071
+        },
+        "775": {
+            "peso": 27,
+            "procesamiento": 919,
+            "tiempolimite": 1240,
+            "Tardanza": 304750,
+            "TiempoAcabado": 305990
+        },
+        "178": {
+            "peso": 65,
+            "procesamiento": 887,
+            "tiempolimite": 1241,
+            "Tardanza": 305636,
+            "TiempoAcabado": 306877
+        },
+        "568": {
+            "peso": 72,
+            "procesamiento": 838,
+            "tiempolimite": 1241,
+            "Tardanza": 306474,
+            "TiempoAcabado": 307715
+        },
+        "787": {
+            "peso": 76,
+            "procesamiento": 296,
+            "tiempolimite": 1242,
+            "Tardanza": 306769,
+            "TiempoAcabado": 308011
+        },
+        "18": {
+            "peso": 8,
+            "procesamiento": 972,
+            "tiempolimite": 1243,
+            "Tardanza": 307740,
+            "TiempoAcabado": 308983
+        },
+        "79": {
+            "peso": 18,
+            "procesamiento": 146,
+            "tiempolimite": 1243,
+            "Tardanza": 307886,
+            "TiempoAcabado": 309129
+        },
+        "201": {
+            "peso": 74,
+            "procesamiento": 82,
+            "tiempolimite": 1243,
+            "Tardanza": 307968,
+            "TiempoAcabado": 309211
+        },
+        "460": {
+            "peso": 19,
+            "procesamiento": 25,
+            "tiempolimite": 1243,
+            "Tardanza": 307993,
+            "TiempoAcabado": 309236
+        },
+        "557": {
+            "peso": 53,
+            "procesamiento": 841,
+            "tiempolimite": 1244,
+            "Tardanza": 308833,
+            "TiempoAcabado": 310077
+        },
+        "870": {
+            "peso": 31,
+            "procesamiento": 804,
+            "tiempolimite": 1244,
+            "Tardanza": 309637,
+            "TiempoAcabado": 310881
+        },
+        "259": {
+            "peso": 81,
+            "procesamiento": 587,
+            "tiempolimite": 1245,
+            "Tardanza": 310223,
+            "TiempoAcabado": 311468
+        },
+        "435": {
+            "peso": 87,
+            "procesamiento": 205,
+            "tiempolimite": 1245,
+            "Tardanza": 310428,
+            "TiempoAcabado": 311673
+        },
+        "809": {
+            "peso": 18,
+            "procesamiento": 369,
+            "tiempolimite": 1245,
+            "Tardanza": 310797,
+            "TiempoAcabado": 312042
+        },
+        "713": {
+            "peso": 32,
+            "procesamiento": 69,
+            "tiempolimite": 1246,
+            "Tardanza": 310865,
+            "TiempoAcabado": 312111
+        },
+        "128": {
+            "peso": 14,
+            "procesamiento": 556,
+            "tiempolimite": 1248,
+            "Tardanza": 311419,
+            "TiempoAcabado": 312667
+        },
+        "828": {
+            "peso": 54,
+            "procesamiento": 901,
+            "tiempolimite": 1248,
+            "Tardanza": 312320,
+            "TiempoAcabado": 313568
+        },
+        "871": {
+            "peso": 59,
+            "procesamiento": 402,
+            "tiempolimite": 1248,
+            "Tardanza": 312722,
+            "TiempoAcabado": 313970
+        },
+        "944": {
+            "peso": 8,
+            "procesamiento": 431,
+            "tiempolimite": 1248,
+            "Tardanza": 313153,
+            "TiempoAcabado": 314401
+        },
+        "346": {
+            "peso": 89,
+            "procesamiento": 878,
+            "tiempolimite": 1249,
+            "Tardanza": 314030,
+            "TiempoAcabado": 315279
+        },
+        "46": {
+            "peso": 72,
+            "procesamiento": 662,
+            "tiempolimite": 1250,
+            "Tardanza": 314691,
+            "TiempoAcabado": 315941
+        },
+        "664": {
+            "peso": 87,
+            "procesamiento": 624,
+            "tiempolimite": 1250,
+            "Tardanza": 315315,
+            "TiempoAcabado": 316565
+        },
+        "168": {
+            "peso": 31,
+            "procesamiento": 492,
+            "tiempolimite": 1251,
+            "Tardanza": 315806,
+            "TiempoAcabado": 317057
+        },
+        "586": {
+            "peso": 11,
+            "procesamiento": 294,
+            "tiempolimite": 1251,
+            "Tardanza": 316100,
+            "TiempoAcabado": 317351
+        },
+        "637": {
+            "peso": 18,
+            "procesamiento": 14,
+            "tiempolimite": 1252,
+            "Tardanza": 395577,
+            "TiempoAcabado": 396829
+        },
+        "725": {
+            "peso": 88,
+            "procesamiento": 234,
+            "tiempolimite": 1254,
+            "Tardanza": 69087,
+            "TiempoAcabado": 70341
+        },
+        "17": {
+            "peso": 18,
+            "procesamiento": 202,
+            "tiempolimite": 1255,
+            "Tardanza": 396584,
+            "TiempoAcabado": 397839
+        },
+        "818": {
+            "peso": 90,
+            "procesamiento": 120,
+            "tiempolimite": 1255,
+            "Tardanza": 55341,
+            "TiempoAcabado": 56596
+        },
+        "899": {
+            "peso": 13,
+            "procesamiento": 887,
+            "tiempolimite": 1255,
+            "Tardanza": 429430,
+            "TiempoAcabado": 430685
+        },
+        "789": {
+            "peso": 19,
+            "procesamiento": 811,
+            "tiempolimite": 1256,
+            "Tardanza": 392099,
+            "TiempoAcabado": 393355
+        },
+        "938": {
+            "peso": 54,
+            "procesamiento": 767,
+            "tiempolimite": 1256,
+            "Tardanza": 229321,
+            "TiempoAcabado": 230577
+        },
+        "487": {
+            "peso": 77,
+            "procesamiento": 833,
+            "tiempolimite": 1257,
+            "Tardanza": 120832,
+            "TiempoAcabado": 122089
+        },
+        "739": {
+            "peso": 42,
+            "procesamiento": 1,
+            "tiempolimite": 1257,
+            "Tardanza": 290123,
+            "TiempoAcabado": 291380
+        },
+        "867": {
+            "peso": 21,
+            "procesamiento": 745,
+            "tiempolimite": 1257,
+            "Tardanza": 385115,
+            "TiempoAcabado": 386372
+        },
+        "877": {
+            "peso": 51,
+            "procesamiento": 266,
+            "tiempolimite": 1257,
+            "Tardanza": 249768,
+            "TiempoAcabado": 251025
+        },
+        "984": {
+            "peso": 37,
+            "procesamiento": 807,
+            "tiempolimite": 1257,
+            "Tardanza": 313382,
+            "TiempoAcabado": 314639
+        },
+        "40": {
+            "peso": 89,
+            "procesamiento": 564,
+            "tiempolimite": 1258,
+            "Tardanza": 66498,
+            "TiempoAcabado": 67756
+        },
+        "606": {
+            "peso": 3,
+            "procesamiento": 971,
+            "tiempolimite": 1258,
+            "Tardanza": 484124,
+            "TiempoAcabado": 485382
+        },
+        "636": {
+            "peso": 54,
+            "procesamiento": 442,
+            "tiempolimite": 1258,
+            "Tardanza": 231267,
+            "TiempoAcabado": 232525
+        },
+        "652": {
+            "peso": 57,
+            "procesamiento": 371,
+            "tiempolimite": 1258,
+            "Tardanza": 220450,
+            "TiempoAcabado": 221708
+        },
+        "670": {
+            "peso": 50,
+            "procesamiento": 505,
+            "tiempolimite": 1258,
+            "Tardanza": 252166,
+            "TiempoAcabado": 253424
+        },
+        "559": {
+            "peso": 90,
+            "procesamiento": 997,
+            "tiempolimite": 1259,
+            "Tardanza": 58786,
+            "TiempoAcabado": 60045
+        },
+        "127": {
+            "peso": 28,
+            "procesamiento": 36,
+            "tiempolimite": 1260,
+            "Tardanza": 359535,
+            "TiempoAcabado": 360795
+        },
+        "459": {
+            "peso": 3,
+            "procesamiento": 400,
+            "tiempolimite": 1260,
+            "Tardanza": 484522,
+            "TiempoAcabado": 485782
+        },
+        "570": {
+            "peso": 70,
+            "procesamiento": 906,
+            "tiempolimite": 1260,
+            "Tardanza": 156587,
+            "TiempoAcabado": 157847
+        },
+        "990": {
+            "peso": 67,
+            "procesamiento": 331,
+            "tiempolimite": 1260,
+            "Tardanza": 169364,
+            "TiempoAcabado": 170624
+        },
+        "607": {
+            "peso": 45,
+            "procesamiento": 761,
+            "tiempolimite": 1262,
+            "Tardanza": 277488,
+            "TiempoAcabado": 278750
+        },
+        "966": {
+            "peso": 77,
+            "procesamiento": 713,
+            "tiempolimite": 1262,
+            "Tardanza": 123119,
+            "TiempoAcabado": 124381
+        },
+        "969": {
+            "peso": 89,
+            "procesamiento": 1000,
+            "tiempolimite": 1262,
+            "Tardanza": 67853,
+            "TiempoAcabado": 69115
+        },
+        "163": {
+            "peso": 81,
+            "procesamiento": 760,
+            "tiempolimite": 1263,
+            "Tardanza": 107458,
+            "TiempoAcabado": 108721
+        },
+        "315": {
+            "peso": 100,
+            "procesamiento": 735,
+            "tiempolimite": 1263,
+            "Tardanza": 30206,
+            "TiempoAcabado": 31469
+        },
+        "571": {
+            "peso": 55,
+            "procesamiento": 169,
+            "tiempolimite": 1263,
+            "Tardanza": 226940,
+            "TiempoAcabado": 228203
+        },
+        "579": {
+            "peso": 46,
+            "procesamiento": 108,
+            "tiempolimite": 1263,
+            "Tardanza": 269667,
+            "TiempoAcabado": 270930
+        },
+        "602": {
+            "peso": 79,
+            "procesamiento": 192,
+            "tiempolimite": 1263,
+            "Tardanza": 115549,
+            "TiempoAcabado": 116812
+        },
+        "793": {
+            "peso": 93,
+            "procesamiento": 823,
+            "tiempolimite": 1263,
+            "Tardanza": 45038,
+            "TiempoAcabado": 46301
+        },
+        "955": {
+            "peso": 42,
+            "procesamiento": 498,
+            "tiempolimite": 1263,
+            "Tardanza": 291280,
+            "TiempoAcabado": 292543
+        },
+        "813": {
+            "peso": 36,
+            "procesamiento": 419,
+            "tiempolimite": 1264,
+            "Tardanza": 320171,
+            "TiempoAcabado": 321435
+        },
+        "831": {
+            "peso": 41,
+            "procesamiento": 335,
+            "tiempolimite": 1264,
+            "Tardanza": 293177,
+            "TiempoAcabado": 294441
+        },
+        "211": {
+            "peso": 43,
+            "procesamiento": 432,
+            "tiempolimite": 1265,
+            "Tardanza": 289067,
+            "TiempoAcabado": 290332
+        },
+        "377": {
+            "peso": 83,
+            "procesamiento": 404,
+            "tiempolimite": 1265,
+            "Tardanza": 96837,
+            "TiempoAcabado": 98102
+        },
+        "947": {
+            "peso": 30,
+            "procesamiento": 537,
+            "tiempolimite": 1265,
+            "Tardanza": 346823,
+            "TiempoAcabado": 348088
+        },
+        "299": {
+            "peso": 15,
+            "procesamiento": 990,
+            "tiempolimite": 1266,
+            "Tardanza": 416629,
+            "TiempoAcabado": 417895
+        },
+        "337": {
+            "peso": 39,
+            "procesamiento": 794,
+            "tiempolimite": 1266,
+            "Tardanza": 303213,
+            "TiempoAcabado": 304479
+        },
+        "972": {
+            "peso": 46,
+            "procesamiento": 404,
+            "tiempolimite": 1267,
+            "Tardanza": 272538,
+            "TiempoAcabado": 273805
+        },
+        "69": {
+            "peso": 41,
+            "procesamiento": 948,
+            "tiempolimite": 1268,
+            "Tardanza": 295122,
+            "TiempoAcabado": 296390
+        },
+        "830": {
+            "peso": 57,
+            "procesamiento": 725,
+            "tiempolimite": 1268,
+            "Tardanza": 222726,
+            "TiempoAcabado": 223994
+        },
+        "951": {
+            "peso": 27,
+            "procesamiento": 75,
+            "tiempolimite": 1268,
+            "Tardanza": 366737,
+            "TiempoAcabado": 368005
+        },
+        "590": {
+            "peso": 98,
+            "procesamiento": 22,
+            "tiempolimite": 1269,
+            "Tardanza": 34624,
+            "TiempoAcabado": 35893
+        },
+        "680": {
+            "peso": 66,
+            "procesamiento": 994,
+            "tiempolimite": 1269,
+            "Tardanza": 175699,
+            "TiempoAcabado": 176968
+        },
+        "245": {
+            "peso": 98,
+            "procesamiento": 59,
+            "tiempolimite": 1270,
+            "Tardanza": 34955,
+            "TiempoAcabado": 36225
+        },
+        "135": {
+            "peso": 3,
+            "procesamiento": 333,
+            "tiempolimite": 1271,
+            "Tardanza": 484844,
+            "TiempoAcabado": 486115
+        },
+        "225": {
+            "peso": 84,
+            "procesamiento": 189,
+            "tiempolimite": 1271,
+            "Tardanza": 91294,
+            "TiempoAcabado": 92565
+        },
+        "371": {
+            "peso": 48,
+            "procesamiento": 860,
+            "tiempolimite": 1271,
+            "Tardanza": 261386,
+            "TiempoAcabado": 262657
+        },
+        "395": {
+            "peso": 6,
+            "procesamiento": 780,
+            "tiempolimite": 1271,
+            "Tardanza": 467194,
+            "TiempoAcabado": 468465
+        },
+        "640": {
+            "peso": 15,
+            "procesamiento": 699,
+            "tiempolimite": 1271,
+            "Tardanza": 417323,
+            "TiempoAcabado": 418594
+        },
+        "852": {
+            "peso": 76,
+            "procesamiento": 905,
+            "tiempolimite": 1271,
+            "Tardanza": 128357,
+            "TiempoAcabado": 129628
+        },
+        "492": {
+            "peso": 4,
+            "procesamiento": 469,
+            "tiempolimite": 1272,
+            "Tardanza": 477963,
+            "TiempoAcabado": 479235
+        },
+        "146": {
+            "peso": 29,
+            "procesamiento": 460,
+            "tiempolimite": 1273,
+            "Tardanza": 354693,
+            "TiempoAcabado": 355966
+        },
+        "208": {
+            "peso": 84,
+            "procesamiento": 344,
+            "tiempolimite": 1273,
+            "Tardanza": 91636,
+            "TiempoAcabado": 92909
+        },
+        "692": {
+            "peso": 33,
+            "procesamiento": 647,
+            "tiempolimite": 1273,
+            "Tardanza": 332761,
+            "TiempoAcabado": 334034
+        },
+        "114": {
+            "peso": 15,
+            "procesamiento": 770,
+            "tiempolimite": 1275,
+            "Tardanza": 418475,
+            "TiempoAcabado": 419750
+        },
+        "438": {
+            "peso": 2,
+            "procesamiento": 418,
+            "tiempolimite": 1275,
+            "Tardanza": 491377,
+            "TiempoAcabado": 492652
+        },
+        "384": {
+            "peso": 84,
+            "procesamiento": 175,
+            "tiempolimite": 1276,
+            "Tardanza": 93685,
+            "TiempoAcabado": 94961
+        },
+        "434": {
+            "peso": 74,
+            "procesamiento": 405,
+            "tiempolimite": 1276,
+            "Tardanza": 137892,
+            "TiempoAcabado": 139168
+        },
+        "565": {
+            "peso": 4,
+            "procesamiento": 176,
+            "tiempolimite": 1276,
+            "Tardanza": 478135,
+            "TiempoAcabado": 479411
+        },
+        "845": {
+            "peso": 66,
+            "procesamiento": 837,
+            "tiempolimite": 1276,
+            "Tardanza": 179452,
+            "TiempoAcabado": 180728
+        },
+        "256": {
+            "peso": 45,
+            "procesamiento": 485,
+            "tiempolimite": 1277,
+            "Tardanza": 281045,
+            "TiempoAcabado": 282322
+        },
+        "587": {
+            "peso": 84,
+            "procesamiento": 188,
+            "tiempolimite": 1277,
+            "Tardanza": 93872,
+            "TiempoAcabado": 95149
+        },
+        "672": {
+            "peso": 83,
+            "procesamiento": 312,
+            "tiempolimite": 1277,
+            "Tardanza": 100701,
+            "TiempoAcabado": 101978
+        },
+        "821": {
+            "peso": 4,
+            "procesamiento": 274,
+            "tiempolimite": 1277,
+            "Tardanza": 478408,
+            "TiempoAcabado": 479685
+        },
+        "617": {
+            "peso": 28,
+            "procesamiento": 477,
+            "tiempolimite": 1278,
+            "Tardanza": 359994,
+            "TiempoAcabado": 361272
+        },
+        "902": {
+            "peso": 80,
+            "procesamiento": 551,
+            "tiempolimite": 1278,
+            "Tardanza": 115342,
+            "TiempoAcabado": 116620
+        },
+        "965": {
+            "peso": 23,
+            "procesamiento": 537,
+            "tiempolimite": 1278,
+            "Tardanza": 378874,
+            "TiempoAcabado": 380152
+        },
+        "400": {
+            "peso": 52,
+            "procesamiento": 650,
+            "tiempolimite": 1279,
+            "Tardanza": 249449,
+            "TiempoAcabado": 250728
+        },
+        "415": {
+            "peso": 50,
+            "procesamiento": 402,
+            "tiempolimite": 1280,
+            "Tardanza": 255161,
+            "TiempoAcabado": 256441
+        },
+        "666": {
+            "peso": 73,
+            "procesamiento": 698,
+            "tiempolimite": 1280,
+            "Tardanza": 149665,
+            "TiempoAcabado": 150945
+        },
+        "876": {
+            "peso": 95,
+            "procesamiento": 565,
+            "tiempolimite": 1281,
+            "Tardanza": 43096,
+            "TiempoAcabado": 44377
+        },
+        "137": {
+            "peso": 49,
+            "procesamiento": 297,
+            "tiempolimite": 1282,
+            "Tardanza": 259318,
+            "TiempoAcabado": 260600
+        },
+        "479": {
+            "peso": 76,
+            "procesamiento": 2,
+            "tiempolimite": 1282,
+            "Tardanza": 129635,
+            "TiempoAcabado": 130917
+        },
+        "532": {
+            "peso": 8,
+            "procesamiento": 961,
+            "tiempolimite": 1282,
+            "Tardanza": 452787,
+            "TiempoAcabado": 454069
+        },
+        "42": {
+            "peso": 76,
+            "procesamiento": 399,
+            "tiempolimite": 1283,
+            "Tardanza": 130033,
+            "TiempoAcabado": 131316
+        },
+        "60": {
+            "peso": 7,
+            "procesamiento": 583,
+            "tiempolimite": 1283,
+            "Tardanza": 459749,
+            "TiempoAcabado": 461032
+        },
+        "340": {
+            "peso": 63,
+            "procesamiento": 245,
+            "tiempolimite": 1283,
+            "Tardanza": 200995,
+            "TiempoAcabado": 202278
+        },
+        "94": {
+            "peso": 24,
+            "procesamiento": 334,
+            "tiempolimite": 1284,
+            "Tardanza": 375240,
+            "TiempoAcabado": 376524
+        },
+        "786": {
+            "peso": 74,
+            "procesamiento": 997,
+            "tiempolimite": 1284,
+            "Tardanza": 141111,
+            "TiempoAcabado": 142395
+        },
+        "177": {
+            "peso": 93,
+            "procesamiento": 80,
+            "tiempolimite": 1285,
+            "Tardanza": 50471,
+            "TiempoAcabado": 51756
+        },
+        "342": {
+            "peso": 90,
+            "procesamiento": 372,
+            "tiempolimite": 1285,
+            "Tardanza": 69760,
+            "TiempoAcabado": 71045
+        },
+        "398": {
+            "peso": 48,
+            "procesamiento": 34,
+            "tiempolimite": 1285,
+            "Tardanza": 263347,
+            "TiempoAcabado": 264632
+        },
+        "502": {
+            "peso": 43,
+            "procesamiento": 391,
+            "tiempolimite": 1285,
+            "Tardanza": 290094,
+            "TiempoAcabado": 291379
+        },
+        "730": {
+            "peso": 92,
+            "procesamiento": 604,
+            "tiempolimite": 1285,
+            "Tardanza": 56527,
+            "TiempoAcabado": 57812
+        },
+        "796": {
+            "peso": 82,
+            "procesamiento": 97,
+            "tiempolimite": 1286,
+            "Tardanza": 109169,
+            "TiempoAcabado": 110455
+        },
+        "187": {
+            "peso": 31,
+            "procesamiento": 383,
+            "tiempolimite": 1287,
+            "Tardanza": 346264,
+            "TiempoAcabado": 347551
+        },
+        "289": {
+            "peso": 53,
+            "procesamiento": 814,
+            "tiempolimite": 1287,
+            "Tardanza": 247236,
+            "TiempoAcabado": 248523
+        },
+        "627": {
+            "peso": 30,
+            "procesamiento": 131,
+            "tiempolimite": 1287,
+            "Tardanza": 350393,
+            "TiempoAcabado": 351680
+        },
+        "897": {
+            "peso": 20,
+            "procesamiento": 69,
+            "tiempolimite": 1287,
+            "Tardanza": 390801,
+            "TiempoAcabado": 392088
+        },
+        "233": {
+            "peso": 17,
+            "procesamiento": 688,
+            "tiempolimite": 1288,
+            "Tardanza": 401578,
+            "TiempoAcabado": 402866
+        },
+        "270": {
+            "peso": 30,
+            "procesamiento": 337,
+            "tiempolimite": 1288,
+            "Tardanza": 350729,
+            "TiempoAcabado": 352017
+        },
+        "101": {
+            "peso": 53,
+            "procesamiento": 257,
+            "tiempolimite": 1289,
+            "Tardanza": 247491,
+            "TiempoAcabado": 248780
+        },
+        "516": {
+            "peso": 63,
+            "procesamiento": 766,
+            "tiempolimite": 1289,
+            "Tardanza": 203006,
+            "TiempoAcabado": 204295
+        },
+        "626": {
+            "peso": 94,
+            "procesamiento": 605,
+            "tiempolimite": 1289,
+            "Tardanza": 48858,
+            "TiempoAcabado": 50147
+        },
+        "729": {
+            "peso": 95,
+            "procesamiento": 520,
+            "tiempolimite": 1289,
+            "Tardanza": 44073,
+            "TiempoAcabado": 45362
+        },
+        "10": {
+            "peso": 14,
+            "procesamiento": 235,
+            "tiempolimite": 1290,
+            "Tardanza": 424752,
+            "TiempoAcabado": 426042
+        },
+        "227": {
+            "peso": 6,
+            "procesamiento": 957,
+            "tiempolimite": 1291,
+            "Tardanza": 468131,
+            "TiempoAcabado": 469422
+        },
+        "517": {
+            "peso": 3,
+            "procesamiento": 839,
+            "tiempolimite": 1291,
+            "Tardanza": 485663,
+            "TiempoAcabado": 486954
+        },
+        "885": {
+            "peso": 74,
+            "procesamiento": 394,
+            "tiempolimite": 1291,
+            "Tardanza": 148179,
+            "TiempoAcabado": 149470
+        },
+        "931": {
+            "peso": 27,
+            "procesamiento": 622,
+            "tiempolimite": 1292,
+            "Tardanza": 369734,
+            "TiempoAcabado": 371026
+        },
+        "552": {
+            "peso": 88,
+            "procesamiento": 866,
+            "tiempolimite": 1293,
+            "Tardanza": 82936,
+            "TiempoAcabado": 84229
+        },
+        "213": {
+            "peso": 19,
+            "procesamiento": 447,
+            "tiempolimite": 1295,
+            "Tardanza": 394110,
+            "TiempoAcabado": 395405
+        },
+        "811": {
+            "peso": 13,
+            "procesamiento": 742,
+            "tiempolimite": 1295,
+            "Tardanza": 430906,
+            "TiempoAcabado": 432201
+        },
+        "145": {
+            "peso": 37,
+            "procesamiento": 745,
+            "tiempolimite": 1296,
+            "Tardanza": 319720,
+            "TiempoAcabado": 321016
+        },
+        "206": {
+            "peso": 39,
+            "procesamiento": 20,
+            "tiempolimite": 1296,
+            "Tardanza": 307556,
+            "TiempoAcabado": 308852
+        },
+        "721": {
+            "peso": 28,
+            "procesamiento": 426,
+            "tiempolimite": 1296,
+            "Tardanza": 365548,
+            "TiempoAcabado": 366844
+        },
+        "829": {
+            "peso": 6,
+            "procesamiento": 612,
+            "tiempolimite": 1296,
+            "Tardanza": 468738,
+            "TiempoAcabado": 470034
+        },
+        "757": {
+            "peso": 47,
+            "procesamiento": 795,
+            "tiempolimite": 1297,
+            "Tardanza": 274277,
+            "TiempoAcabado": 275574
+        },
+        "854": {
+            "peso": 71,
+            "procesamiento": 253,
+            "tiempolimite": 1297,
+            "Tardanza": 159584,
+            "TiempoAcabado": 160881
+        },
+        "651": {
+            "peso": 3,
+            "procesamiento": 565,
+            "tiempolimite": 1298,
+            "Tardanza": 486221,
+            "TiempoAcabado": 487519
+        },
+        "693": {
+            "peso": 42,
+            "procesamiento": 513,
+            "tiempolimite": 1298,
+            "Tardanza": 294144,
+            "TiempoAcabado": 295442
+        },
+        "916": {
+            "peso": 12,
+            "procesamiento": 138,
+            "tiempolimite": 1298,
+            "Tardanza": 435605,
+            "TiempoAcabado": 436903
+        },
+        "248": {
+            "peso": 39,
+            "procesamiento": 943,
+            "tiempolimite": 1300,
+            "Tardanza": 309318,
+            "TiempoAcabado": 310618
+        },
+        "272": {
+            "peso": 91,
+            "procesamiento": 864,
+            "tiempolimite": 1300,
+            "Tardanza": 70609,
+            "TiempoAcabado": 71909
+        },
+        "426": {
+            "peso": 13,
+            "procesamiento": 833,
+            "tiempolimite": 1300,
+            "Tardanza": 431734,
+            "TiempoAcabado": 433034
+        },
+        "535": {
+            "peso": 21,
+            "procesamiento": 247,
+            "tiempolimite": 1300,
+            "Tardanza": 387813,
+            "TiempoAcabado": 389113
+        },
+        "926": {
+            "peso": 25,
+            "procesamiento": 264,
+            "tiempolimite": 1300,
+            "Tardanza": 373164,
+            "TiempoAcabado": 374464
+        },
+        "239": {
+            "peso": 42,
+            "procesamiento": 787,
+            "tiempolimite": 1301,
+            "Tardanza": 296598,
+            "TiempoAcabado": 297899
+        },
+        "278": {
+            "peso": 14,
+            "procesamiento": 958,
+            "tiempolimite": 1302,
+            "Tardanza": 425698,
+            "TiempoAcabado": 427000
+        },
+        "198": {
+            "peso": 51,
+            "procesamiento": 309,
+            "tiempolimite": 1303,
+            "Tardanza": 253816,
+            "TiempoAcabado": 255119
+        },
+        "65": {
+            "peso": 48,
+            "procesamiento": 804,
+            "tiempolimite": 1305,
+            "Tardanza": 266904,
+            "TiempoAcabado": 268209
+        },
+        "132": {
+            "peso": 61,
+            "procesamiento": 781,
+            "tiempolimite": 1305,
+            "Tardanza": 214540,
+            "TiempoAcabado": 215845
+        },
+        "179": {
+            "peso": 66,
+            "procesamiento": 717,
+            "tiempolimite": 1305,
+            "Tardanza": 187146,
+            "TiempoAcabado": 188451
+        },
+        "760": {
+            "peso": 18,
+            "procesamiento": 836,
+            "tiempolimite": 1305,
+            "Tardanza": 398478,
+            "TiempoAcabado": 399783
+        },
+        "391": {
+            "peso": 16,
+            "procesamiento": 534,
+            "tiempolimite": 1306,
+            "Tardanza": 412219,
+            "TiempoAcabado": 413525
+        },
+        "93": {
+            "peso": 85,
+            "procesamiento": 60,
+            "tiempolimite": 1307,
+            "Tardanza": 100359,
+            "TiempoAcabado": 101666
+        },
+        "419": {
+            "peso": 39,
+            "procesamiento": 389,
+            "tiempolimite": 1307,
+            "Tardanza": 310361,
+            "TiempoAcabado": 311668
+        },
+        "85": {
+            "peso": 54,
+            "procesamiento": 756,
+            "tiempolimite": 1308,
+            "Tardanza": 245536,
+            "TiempoAcabado": 246844
+        },
+        "231": {
+            "peso": 39,
+            "procesamiento": 27,
+            "tiempolimite": 1308,
+            "Tardanza": 310387,
+            "TiempoAcabado": 311695
+        },
+        "431": {
+            "peso": 54,
+            "procesamiento": 527,
+            "tiempolimite": 1308,
+            "Tardanza": 246063,
+            "TiempoAcabado": 247371
+        },
+        "523": {
+            "peso": 17,
+            "procesamiento": 452,
+            "tiempolimite": 1308,
+            "Tardanza": 403437,
+            "TiempoAcabado": 404745
+        },
+        "307": {
+            "peso": 17,
+            "procesamiento": 293,
+            "tiempolimite": 1309,
+            "Tardanza": 403729,
+            "TiempoAcabado": 405038
+        },
+        "681": {
+            "peso": 86,
+            "procesamiento": 476,
+            "tiempolimite": 1309,
+            "Tardanza": 94989,
+            "TiempoAcabado": 96298
+        },
+        "906": {
+            "peso": 32,
+            "procesamiento": 480,
+            "tiempolimite": 1309,
+            "Tardanza": 345545,
+            "TiempoAcabado": 346854
+        },
+        "412": {
+            "peso": 15,
+            "procesamiento": 37,
+            "tiempolimite": 1310,
+            "Tardanza": 419306,
+            "TiempoAcabado": 420616
+        },
+        "774": {
+            "peso": 63,
+            "procesamiento": 31,
+            "tiempolimite": 1310,
+            "Tardanza": 204096,
+            "TiempoAcabado": 205406
+        },
+        "95": {
+            "peso": 21,
+            "procesamiento": 157,
+            "tiempolimite": 1311,
+            "Tardanza": 387959,
+            "TiempoAcabado": 389270
+        },
+        "408": {
+            "peso": 7,
+            "procesamiento": 155,
+            "tiempolimite": 1311,
+            "Tardanza": 459876,
+            "TiempoAcabado": 461187
+        },
+        "797": {
+            "peso": 28,
+            "procesamiento": 85,
+            "tiempolimite": 1311,
+            "Tardanza": 366185,
+            "TiempoAcabado": 367496
+        },
+        "35": {
+            "peso": 6,
+            "procesamiento": 56,
+            "tiempolimite": 1312,
+            "Tardanza": 468778,
+            "TiempoAcabado": 470090
+        },
+        "482": {
+            "peso": 46,
+            "procesamiento": 116,
+            "tiempolimite": 1312,
+            "Tardanza": 282315,
+            "TiempoAcabado": 283627
+        },
+        "925": {
+            "peso": 32,
+            "procesamiento": 314,
+            "tiempolimite": 1312,
+            "Tardanza": 345856,
+            "TiempoAcabado": 347168
+        },
+        "23": {
+            "peso": 35,
+            "procesamiento": 815,
+            "tiempolimite": 1313,
+            "Tardanza": 331682,
+            "TiempoAcabado": 332995
+        },
+        "164": {
+            "peso": 8,
+            "procesamiento": 960,
+            "tiempolimite": 1313,
+            "Tardanza": 453987,
+            "TiempoAcabado": 455300
+        },
+        "202": {
+            "peso": 87,
+            "procesamiento": 96,
+            "tiempolimite": 1313,
+            "Tardanza": 90303,
+            "TiempoAcabado": 91616
+        },
+        "261": {
+            "peso": 92,
+            "procesamiento": 332,
+            "tiempolimite": 1313,
+            "Tardanza": 69360,
+            "TiempoAcabado": 70673
+        },
+        "324": {
+            "peso": 47,
+            "procesamiento": 951,
+            "tiempolimite": 1313,
+            "Tardanza": 276095,
+            "TiempoAcabado": 277408
+        },
+        "609": {
+            "peso": 84,
+            "procesamiento": 904,
+            "tiempolimite": 1313,
+            "Tardanza": 108312,
+            "TiempoAcabado": 109625
+        },
+        "715": {
+            "peso": 99,
+            "procesamiento": 748,
+            "tiempolimite": 1313,
+            "Tardanza": 38998,
+            "TiempoAcabado": 40311
+        },
+        "783": {
+            "peso": 68,
+            "procesamiento": 92,
+            "tiempolimite": 1313,
+            "Tardanza": 177712,
+            "TiempoAcabado": 179025
+        },
+        "893": {
+            "peso": 36,
+            "procesamiento": 600,
+            "tiempolimite": 1314,
+            "Tardanza": 328792,
+            "TiempoAcabado": 330106
+        },
+        "874": {
+            "peso": 64,
+            "procesamiento": 117,
+            "tiempolimite": 1315,
+            "Tardanza": 203097,
+            "TiempoAcabado": 204412
+        },
+        "927": {
+            "peso": 17,
+            "procesamiento": 683,
+            "tiempolimite": 1315,
+            "Tardanza": 404406,
+            "TiempoAcabado": 405721
+        },
+        "121": {
+            "peso": 94,
+            "procesamiento": 463,
+            "tiempolimite": 1316,
+            "Tardanza": 59192,
+            "TiempoAcabado": 60508
+        },
+        "183": {
+            "peso": 3,
+            "procesamiento": 322,
+            "tiempolimite": 1316,
+            "Tardanza": 486525,
+            "TiempoAcabado": 487841
+        },
+        "193": {
+            "peso": 77,
+            "procesamiento": 4,
+            "tiempolimite": 1316,
+            "Tardanza": 133804,
+            "TiempoAcabado": 135120
+        },
+        "453": {
+            "peso": 65,
+            "procesamiento": 258,
+            "tiempolimite": 1316,
+            "Tardanza": 199510,
+            "TiempoAcabado": 200826
+        },
+        "555": {
+            "peso": 21,
+            "procesamiento": 281,
+            "tiempolimite": 1316,
+            "Tardanza": 388655,
+            "TiempoAcabado": 389971
+        },
+        "732": {
+            "peso": 88,
+            "procesamiento": 838,
+            "tiempolimite": 1316,
+            "Tardanza": 89358,
+            "TiempoAcabado": 90674
+        },
+        "812": {
+            "peso": 62,
+            "procesamiento": 286,
+            "tiempolimite": 1316,
+            "Tardanza": 209748,
+            "TiempoAcabado": 211064
+        },
+        "341": {
+            "peso": 42,
+            "procesamiento": 49,
+            "tiempolimite": 1317,
+            "Tardanza": 298218,
+            "TiempoAcabado": 299535
+        },
+        "4": {
+            "peso": 72,
+            "procesamiento": 807,
+            "tiempolimite": 1318,
+            "Tardanza": 160779,
+            "TiempoAcabado": 162097
+        },
+        "468": {
+            "peso": 55,
+            "procesamiento": 36,
+            "tiempolimite": 1318,
+            "Tardanza": 240347,
+            "TiempoAcabado": 241665
+        },
+        "836": {
+            "peso": 37,
+            "procesamiento": 785,
+            "tiempolimite": 1318,
+            "Tardanza": 324616,
+            "TiempoAcabado": 325934
+        },
+        "846": {
+            "peso": 11,
+            "procesamiento": 511,
+            "tiempolimite": 1318,
+            "Tardanza": 441799,
+            "TiempoAcabado": 443117
+        },
+        "946": {
+            "peso": 39,
+            "procesamiento": 521,
+            "tiempolimite": 1318,
+            "Tardanza": 311765,
+            "TiempoAcabado": 313083
+        },
+        "173": {
+            "peso": 99,
+            "procesamiento": 113,
+            "tiempolimite": 1319,
+            "Tardanza": 39638,
+            "TiempoAcabado": 40957
+        },
+        "276": {
+            "peso": 28,
+            "procesamiento": 801,
+            "tiempolimite": 1319,
+            "Tardanza": 367487,
+            "TiempoAcabado": 368806
+        },
+        "339": {
+            "peso": 66,
+            "procesamiento": 58,
+            "tiempolimite": 1319,
+            "Tardanza": 193562,
+            "TiempoAcabado": 194881
+        },
+        "648": {
+            "peso": 87,
+            "procesamiento": 144,
+            "tiempolimite": 1319,
+            "Tardanza": 92490,
+            "TiempoAcabado": 93809
+        },
+        "758": {
+            "peso": 8,
+            "procesamiento": 116,
+            "tiempolimite": 1320,
+            "Tardanza": 454096,
+            "TiempoAcabado": 455416
+        },
+        "405": {
+            "peso": 15,
+            "procesamiento": 936,
+            "tiempolimite": 1321,
+            "Tardanza": 421214,
+            "TiempoAcabado": 422535
+        },
+        "744": {
+            "peso": 44,
+            "procesamiento": 222,
+            "tiempolimite": 1321,
+            "Tardanza": 290573,
+            "TiempoAcabado": 291894
+        },
+        "915": {
+            "peso": 74,
+            "procesamiento": 244,
+            "tiempolimite": 1321,
+            "Tardanza": 154165,
+            "TiempoAcabado": 155486
+        },
+        "305": {
+            "peso": 65,
+            "procesamiento": 726,
+            "tiempolimite": 1323,
+            "Tardanza": 200710,
+            "TiempoAcabado": 202033
+        },
+        "687": {
+            "peso": 39,
+            "procesamiento": 554,
+            "tiempolimite": 1323,
+            "Tardanza": 312509,
+            "TiempoAcabado": 313832
+        },
+        "27": {
+            "peso": 68,
+            "procesamiento": 794,
+            "tiempolimite": 1324,
+            "Tardanza": 181952,
+            "TiempoAcabado": 183276
+        },
+        "230": {
+            "peso": 38,
+            "procesamiento": 548,
+            "tiempolimite": 1324,
+            "Tardanza": 318089,
+            "TiempoAcabado": 319413
+        },
+        "688": {
+            "peso": 5,
+            "procesamiento": 376,
+            "tiempolimite": 1324,
+            "Tardanza": 474712,
+            "TiempoAcabado": 476036
+        },
+        "71": {
+            "peso": 17,
+            "procesamiento": 940,
+            "tiempolimite": 1325,
+            "Tardanza": 406474,
+            "TiempoAcabado": 407799
+        },
+        "653": {
+            "peso": 6,
+            "procesamiento": 619,
+            "tiempolimite": 1325,
+            "Tardanza": 469384,
+            "TiempoAcabado": 470709
+        },
+        "292": {
+            "peso": 66,
+            "procesamiento": 128,
+            "tiempolimite": 1326,
+            "Tardanza": 194856,
+            "TiempoAcabado": 196182
+        },
+        "212": {
+            "peso": 57,
+            "procesamiento": 685,
+            "tiempolimite": 1327,
+            "Tardanza": 230756,
+            "TiempoAcabado": 232083
+        },
+        "493": {
+            "peso": 62,
+            "procesamiento": 480,
+            "tiempolimite": 1327,
+            "Tardanza": 214998,
+            "TiempoAcabado": 216325
+        },
+        "567": {
+            "peso": 17,
+            "procesamiento": 904,
+            "tiempolimite": 1327,
+            "Tardanza": 407376,
+            "TiempoAcabado": 408703
+        },
+        "165": {
+            "peso": 33,
+            "procesamiento": 123,
+            "tiempolimite": 1328,
+            "Tardanza": 340325,
+            "TiempoAcabado": 341653
+        },
+        "420": {
+            "peso": 69,
+            "procesamiento": 46,
+            "tiempolimite": 1328,
+            "Tardanza": 175686,
+            "TiempoAcabado": 177014
+        },
+        "242": {
+            "peso": 18,
+            "procesamiento": 100,
+            "tiempolimite": 1329,
+            "Tardanza": 398972,
+            "TiempoAcabado": 400301
+        },
+        "320": {
+            "peso": 12,
+            "procesamiento": 436,
+            "tiempolimite": 1329,
+            "Tardanza": 436975,
+            "TiempoAcabado": 438304
+        },
+        "422": {
+            "peso": 65,
+            "procesamiento": 755,
+            "tiempolimite": 1329,
+            "Tardanza": 202200,
+            "TiempoAcabado": 203529
+        },
+        "488": {
+            "peso": 46,
+            "procesamiento": 201,
+            "tiempolimite": 1329,
+            "Tardanza": 286237,
+            "TiempoAcabado": 287566
+        },
+        "24": {
+            "peso": 54,
+            "procesamiento": 31,
+            "tiempolimite": 1330,
+            "Tardanza": 249429,
+            "TiempoAcabado": 250759
+        },
+        "349": {
+            "peso": 11,
+            "procesamiento": 157,
+            "tiempolimite": 1330,
+            "Tardanza": 441944,
+            "TiempoAcabado": 443274
+        },
+        "960": {
+            "peso": 43,
+            "procesamiento": 722,
+            "tiempolimite": 1330,
+            "Tardanza": 295782,
+            "TiempoAcabado": 297112
+        },
+        "171": {
+            "peso": 80,
+            "procesamiento": 414,
+            "tiempolimite": 1331,
+            "Tardanza": 126415,
+            "TiempoAcabado": 127746
+        },
+        "249": {
+            "peso": 52,
+            "procesamiento": 920,
+            "tiempolimite": 1331,
+            "Tardanza": 254708,
+            "TiempoAcabado": 256039
+        },
+        "336": {
+            "peso": 7,
+            "procesamiento": 892,
+            "tiempolimite": 1331,
+            "Tardanza": 461281,
+            "TiempoAcabado": 462612
+        },
+        "485": {
+            "peso": 40,
+            "procesamiento": 823,
+            "tiempolimite": 1331,
+            "Tardanza": 308344,
+            "TiempoAcabado": 309675
+        },
+        "953": {
+            "peso": 77,
+            "procesamiento": 751,
+            "tiempolimite": 1331,
+            "Tardanza": 138588,
+            "TiempoAcabado": 139919
+        },
+        "464": {
+            "peso": 11,
+            "procesamiento": 222,
+            "tiempolimite": 1332,
+            "Tardanza": 442164,
+            "TiempoAcabado": 443496
+        },
+        "52": {
+            "peso": 66,
+            "procesamiento": 796,
+            "tiempolimite": 1333,
+            "Tardanza": 199235,
+            "TiempoAcabado": 200568
+        },
+        "634": {
+            "peso": 100,
+            "procesamiento": 779,
+            "tiempolimite": 1333,
+            "Tardanza": 41084,
+            "TiempoAcabado": 42417
+        },
+        "890": {
+            "peso": 76,
+            "procesamiento": 623,
+            "tiempolimite": 1333,
+            "Tardanza": 150235,
+            "TiempoAcabado": 151568
+        },
+        "506": {
+            "peso": 90,
+            "procesamiento": 308,
+            "tiempolimite": 1334,
+            "Tardanza": 87128,
+            "TiempoAcabado": 88462
+        },
+        "968": {
+            "peso": 64,
+            "procesamiento": 443,
+            "tiempolimite": 1334,
+            "Tardanza": 204515,
+            "TiempoAcabado": 205849
+        },
+        "608": {
+            "peso": 50,
+            "procesamiento": 765,
+            "tiempolimite": 1335,
+            "Tardanza": 263263,
+            "TiempoAcabado": 264598
+        },
+        "386": {
+            "peso": 68,
+            "procesamiento": 342,
+            "tiempolimite": 1336,
+            "Tardanza": 184190,
+            "TiempoAcabado": 185526
+        },
+        "671": {
+            "peso": 83,
+            "procesamiento": 372,
+            "tiempolimite": 1336,
+            "Tardanza": 116840,
+            "TiempoAcabado": 118176
+        },
+        "695": {
+            "peso": 1,
+            "procesamiento": 162,
+            "tiempolimite": 1336,
+            "Tardanza": 495607,
+            "TiempoAcabado": 496943
+        },
+        "250": {
+            "peso": 26,
+            "procesamiento": 368,
+            "tiempolimite": 1337,
+            "Tardanza": 372858,
+            "TiempoAcabado": 374195
+        },
+        "981": {
+            "peso": 17,
+            "procesamiento": 427,
+            "tiempolimite": 1337,
+            "Tardanza": 408450,
+            "TiempoAcabado": 409787
+        },
+        "291": {
+            "peso": 97,
+            "procesamiento": 815,
+            "tiempolimite": 1338,
+            "Tardanza": 50148,
+            "TiempoAcabado": 51486
+        },
+        "381": {
+            "peso": 34,
+            "procesamiento": 986,
+            "tiempolimite": 1338,
+            "Tardanza": 335506,
+            "TiempoAcabado": 336844
+        },
+        "800": {
+            "peso": 21,
+            "procesamiento": 647,
+            "tiempolimite": 1338,
+            "Tardanza": 390143,
+            "TiempoAcabado": 391481
+        },
+        "935": {
+            "peso": 78,
+            "procesamiento": 308,
+            "tiempolimite": 1338,
+            "Tardanza": 134297,
+            "TiempoAcabado": 135635
+        },
+        "807": {
+            "peso": 37,
+            "procesamiento": 653,
+            "tiempolimite": 1339,
+            "Tardanza": 327621,
+            "TiempoAcabado": 328960
+        },
+        "116": {
+            "peso": 63,
+            "procesamiento": 319,
+            "tiempolimite": 1340,
+            "Tardanza": 210777,
+            "TiempoAcabado": 212117
+        },
+        "936": {
+            "peso": 25,
+            "procesamiento": 700,
+            "tiempolimite": 1340,
+            "Tardanza": 375884,
+            "TiempoAcabado": 377224
+        },
+        "480": {
+            "peso": 98,
+            "procesamiento": 579,
+            "tiempolimite": 1341,
+            "Tardanza": 48201,
+            "TiempoAcabado": 49542
+        },
+        "644": {
+            "peso": 34,
+            "procesamiento": 586,
+            "tiempolimite": 1341,
+            "Tardanza": 337043,
+            "TiempoAcabado": 338384
+        },
+        "551": {
+            "peso": 44,
+            "procesamiento": 777,
+            "tiempolimite": 1342,
+            "Tardanza": 292764,
+            "TiempoAcabado": 294106
+        },
+        "629": {
+            "peso": 9,
+            "procesamiento": 707,
+            "tiempolimite": 1342,
+            "Tardanza": 446451,
+            "TiempoAcabado": 447793
+        },
+        "898": {
+            "peso": 95,
+            "procesamiento": 729,
+            "tiempolimite": 1342,
+            "Tardanza": 65500,
+            "TiempoAcabado": 66842
+        },
+        "304": {
+            "peso": 73,
+            "procesamiento": 144,
+            "tiempolimite": 1343,
+            "Tardanza": 163174,
+            "TiempoAcabado": 164517
+        },
+        "509": {
+            "peso": 78,
+            "procesamiento": 310,
+            "tiempolimite": 1343,
+            "Tardanza": 135497,
+            "TiempoAcabado": 136840
+        },
+        "534": {
+            "peso": 19,
+            "procesamiento": 143,
+            "tiempolimite": 1343,
+            "Tardanza": 396639,
+            "TiempoAcabado": 397982
+        },
+        "761": {
+            "peso": 54,
+            "procesamiento": 444,
+            "tiempolimite": 1343,
+            "Tardanza": 250629,
+            "TiempoAcabado": 251972
+        },
+        "285": {
+            "peso": 36,
+            "procesamiento": 793,
+            "tiempolimite": 1344,
+            "Tardanza": 329858,
+            "TiempoAcabado": 331202
+        },
+        "125": {
+            "peso": 48,
+            "procesamiento": 581,
+            "tiempolimite": 1345,
+            "Tardanza": 276644,
+            "TiempoAcabado": 277989
+        },
+        "232": {
+            "peso": 50,
+            "procesamiento": 574,
+            "tiempolimite": 1345,
+            "Tardanza": 264290,
+            "TiempoAcabado": 265635
+        },
+        "446": {
+            "peso": 52,
+            "procesamiento": 158,
+            "tiempolimite": 1345,
+            "Tardanza": 257307,
+            "TiempoAcabado": 258652
+        },
+        "781": {
+            "peso": 41,
+            "procesamiento": 138,
+            "tiempolimite": 1345,
+            "Tardanza": 304694,
+            "TiempoAcabado": 306039
+        },
+        "954": {
+            "peso": 68,
+            "procesamiento": 297,
+            "tiempolimite": 1345,
+            "Tardanza": 187403,
+            "TiempoAcabado": 188748
+        },
+        "56": {
+            "peso": 80,
+            "procesamiento": 200,
+            "tiempolimite": 1346,
+            "Tardanza": 129416,
+            "TiempoAcabado": 130762
+        },
+        "302": {
+            "peso": 90,
+            "procesamiento": 139,
+            "tiempolimite": 1346,
+            "Tardanza": 89467,
+            "TiempoAcabado": 90813
+        },
+        "686": {
+            "peso": 49,
+            "procesamiento": 976,
+            "tiempolimite": 1346,
+            "Tardanza": 270560,
+            "TiempoAcabado": 271906
+        },
+        "704": {
+            "peso": 42,
+            "procesamiento": 686,
+            "tiempolimite": 1346,
+            "Tardanza": 300147,
+            "TiempoAcabado": 301493
+        },
+        "706": {
+            "peso": 23,
+            "procesamiento": 72,
+            "tiempolimite": 1346,
+            "Tardanza": 383689,
+            "TiempoAcabado": 385035
+        },
+        "51": {
+            "peso": 81,
+            "procesamiento": 46,
+            "tiempolimite": 1347,
+            "Tardanza": 125985,
+            "TiempoAcabado": 127332
+        },
+        "217": {
+            "peso": 82,
+            "procesamiento": 156,
+            "tiempolimite": 1347,
+            "Tardanza": 124081,
+            "TiempoAcabado": 125428
+        },
+        "355": {
+            "peso": 36,
+            "procesamiento": 978,
+            "tiempolimite": 1347,
+            "Tardanza": 330833,
+            "TiempoAcabado": 332180
+        },
+        "389": {
+            "peso": 41,
+            "procesamiento": 842,
+            "tiempolimite": 1348,
+            "Tardanza": 305533,
+            "TiempoAcabado": 306881
+        },
+        "705": {
+            "peso": 18,
+            "procesamiento": 695,
+            "tiempolimite": 1348,
+            "Tardanza": 399648,
+            "TiempoAcabado": 400996
+        },
+        "881": {
+            "peso": 25,
+            "procesamiento": 585,
+            "tiempolimite": 1348,
+            "Tardanza": 376461,
+            "TiempoAcabado": 377809
+        },
+        "247": {
+            "peso": 13,
+            "procesamiento": 512,
+            "tiempolimite": 1349,
+            "Tardanza": 433624,
+            "TiempoAcabado": 434973
+        },
+        "912": {
+            "peso": 40,
+            "procesamiento": 867,
+            "tiempolimite": 1349,
+            "Tardanza": 311213,
+            "TiempoAcabado": 312562
+        },
+        "136": {
+            "peso": 15,
+            "procesamiento": 447,
+            "tiempolimite": 1351,
+            "Tardanza": 422659,
+            "TiempoAcabado": 424010
+        },
+        "143": {
+            "peso": 92,
+            "procesamiento": 669,
+            "tiempolimite": 1351,
+            "Tardanza": 82012,
+            "TiempoAcabado": 83363
+        },
+        "156": {
+            "peso": 47,
+            "procesamiento": 946,
+            "tiempolimite": 1351,
+            "Tardanza": 283443,
+            "TiempoAcabado": 284794
+        },
+        "271": {
+            "peso": 62,
+            "procesamiento": 201,
+            "tiempolimite": 1351,
+            "Tardanza": 218123,
+            "TiempoAcabado": 219474
+        },
+        "505": {
+            "peso": 67,
+            "procesamiento": 861,
+            "tiempolimite": 1351,
+            "Tardanza": 197963,
+            "TiempoAcabado": 199314
+        },
+        "746": {
+            "peso": 14,
+            "procesamiento": 711,
+            "tiempolimite": 1351,
+            "Tardanza": 428447,
+            "TiempoAcabado": 429798
+        },
+        "115": {
+            "peso": 2,
+            "procesamiento": 500,
+            "tiempolimite": 1352,
+            "Tardanza": 491800,
+            "TiempoAcabado": 493152
+        },
+        "658": {
+            "peso": 48,
+            "procesamiento": 461,
+            "tiempolimite": 1352,
+            "Tardanza": 278757,
+            "TiempoAcabado": 280109
+        },
+        "554": {
+            "peso": 45,
+            "procesamiento": 151,
+            "tiempolimite": 1353,
+            "Tardanza": 290692,
+            "TiempoAcabado": 292045
+        },
+        "623": {
+            "peso": 61,
+            "procesamiento": 573,
+            "tiempolimite": 1353,
+            "Tardanza": 221762,
+            "TiempoAcabado": 223115
+        },
+        "714": {
+            "peso": 1,
+            "procesamiento": 141,
+            "tiempolimite": 1353,
+            "Tardanza": 495731,
+            "TiempoAcabado": 497084
+        },
+        "74": {
+            "peso": 85,
+            "procesamiento": 524,
+            "tiempolimite": 1354,
+            "Tardanza": 113806,
+            "TiempoAcabado": 115160
+        },
+        "104": {
+            "peso": 61,
+            "procesamiento": 154,
+            "tiempolimite": 1354,
+            "Tardanza": 221915,
+            "TiempoAcabado": 223269
+        },
+        "312": {
+            "peso": 52,
+            "procesamiento": 136,
+            "tiempolimite": 1354,
+            "Tardanza": 257434,
+            "TiempoAcabado": 258788
+        },
+        "372": {
+            "peso": 32,
+            "procesamiento": 106,
+            "tiempolimite": 1354,
+            "Tardanza": 347816,
+            "TiempoAcabado": 349170
+        },
+        "869": {
+            "peso": 98,
+            "procesamiento": 190,
+            "tiempolimite": 1354,
+            "Tardanza": 50322,
+            "TiempoAcabado": 51676
+        },
+        "402": {
+            "peso": 42,
+            "procesamiento": 189,
+            "tiempolimite": 1355,
+            "Tardanza": 300327,
+            "TiempoAcabado": 301682
+        },
+        "3": {
+            "peso": 90,
+            "procesamiento": 436,
+            "tiempolimite": 1356,
+            "Tardanza": 90164,
+            "TiempoAcabado": 91520
+        },
+        "433": {
+            "peso": 39,
+            "procesamiento": 132,
+            "tiempolimite": 1356,
+            "Tardanza": 317509,
+            "TiempoAcabado": 318865
+        },
+        "753": {
+            "peso": 56,
+            "procesamiento": 691,
+            "tiempolimite": 1356,
+            "Tardanza": 244732,
+            "TiempoAcabado": 246088
+        },
+        "59": {
+            "peso": 77,
+            "procesamiento": 751,
+            "tiempolimite": 1357,
+            "Tardanza": 151378,
+            "TiempoAcabado": 152735
+        },
+        "77": {
+            "peso": 9,
+            "procesamiento": 746,
+            "tiempolimite": 1357,
+            "Tardanza": 447242,
+            "TiempoAcabado": 448599
+        },
+        "273": {
+            "peso": 98,
+            "procesamiento": 295,
+            "tiempolimite": 1358,
+            "Tardanza": 53959,
+            "TiempoAcabado": 55317
+        },
+        "584": {
+            "peso": 13,
+            "procesamiento": 462,
+            "tiempolimite": 1358,
+            "Tardanza": 434077,
+            "TiempoAcabado": 435435
+        },
+        "878": {
+            "peso": 32,
+            "procesamiento": 919,
+            "tiempolimite": 1358,
+            "Tardanza": 348731,
+            "TiempoAcabado": 350089
+        },
+        "605": {
+            "peso": 3,
+            "procesamiento": 878,
+            "tiempolimite": 1359,
+            "Tardanza": 487360,
+            "TiempoAcabado": 488719
+        },
+        "323": {
+            "peso": 62,
+            "procesamiento": 209,
+            "tiempolimite": 1360,
+            "Tardanza": 218630,
+            "TiempoAcabado": 219990
+        },
+        "613": {
+            "peso": 89,
+            "procesamiento": 312,
+            "tiempolimite": 1360,
+            "Tardanza": 98142,
+            "TiempoAcabado": 99502
+        },
+        "269": {
+            "peso": 80,
+            "procesamiento": 245,
+            "tiempolimite": 1361,
+            "Tardanza": 132061,
+            "TiempoAcabado": 133422
+        },
+        "329": {
+            "peso": 100,
+            "procesamiento": 459,
+            "tiempolimite": 1361,
+            "Tardanza": 45648,
+            "TiempoAcabado": 47009
+        },
+        "601": {
+            "peso": 38,
+            "procesamiento": 713,
+            "tiempolimite": 1361,
+            "Tardanza": 325286,
+            "TiempoAcabado": 326647
+        },
+        "798": {
+            "peso": 7,
+            "procesamiento": 289,
+            "tiempolimite": 1361,
+            "Tardanza": 461540,
+            "TiempoAcabado": 462901
+        },
+        "858": {
+            "peso": 29,
+            "procesamiento": 296,
+            "tiempolimite": 1361,
+            "Tardanza": 366569,
+            "TiempoAcabado": 367930
+        },
+        "172": {
+            "peso": 44,
+            "procesamiento": 177,
+            "tiempolimite": 1363,
+            "Tardanza": 296713,
+            "TiempoAcabado": 298076
+        },
+        "508": {
+            "peso": 56,
+            "procesamiento": 415,
+            "tiempolimite": 1363,
+            "Tardanza": 248030,
+            "TiempoAcabado": 249393
+        },
+        "368": {
+            "peso": 10,
+            "procesamiento": 391,
+            "tiempolimite": 1364,
+            "Tardanza": 444834,
+            "TiempoAcabado": 446198
+        },
+        "486": {
+            "peso": 32,
+            "procesamiento": 695,
+            "tiempolimite": 1365,
+            "Tardanza": 350184,
+            "TiempoAcabado": 351549
+        },
+        "982": {
+            "peso": 98,
+            "procesamiento": 235,
+            "tiempolimite": 1365,
+            "Tardanza": 55111,
+            "TiempoAcabado": 56476
+        },
+        "297": {
+            "peso": 26,
+            "procesamiento": 263,
+            "tiempolimite": 1366,
+            "Tardanza": 373361,
+            "TiempoAcabado": 374727
+        },
+        "404": {
+            "peso": 4,
+            "procesamiento": 870,
+            "tiempolimite": 1366,
+            "Tardanza": 479189,
+            "TiempoAcabado": 480555
+        },
+        "563": {
+            "peso": 15,
+            "procesamiento": 834,
+            "tiempolimite": 1366,
+            "Tardanza": 423478,
+            "TiempoAcabado": 424844
+        },
+        "639": {
+            "peso": 31,
+            "procesamiento": 978,
+            "tiempolimite": 1366,
+            "Tardanza": 355954,
+            "TiempoAcabado": 357320
+        },
+        "99": {
+            "peso": 54,
+            "procesamiento": 970,
+            "tiempolimite": 1367,
+            "Tardanza": 253027,
+            "TiempoAcabado": 254394
+        },
+        "683": {
+            "peso": 31,
+            "procesamiento": 958,
+            "tiempolimite": 1367,
+            "Tardanza": 356911,
+            "TiempoAcabado": 358278
+        },
+        "803": {
+            "peso": 17,
+            "procesamiento": 487,
+            "tiempolimite": 1367,
+            "Tardanza": 409855,
+            "TiempoAcabado": 411222
+        },
+        "473": {
+            "peso": 70,
+            "procesamiento": 983,
+            "tiempolimite": 1368,
+            "Tardanza": 183171,
+            "TiempoAcabado": 184539
+        },
+        "561": {
+            "peso": 86,
+            "procesamiento": 334,
+            "tiempolimite": 1368,
+            "Tardanza": 113268,
+            "TiempoAcabado": 114636
+        },
+        "958": {
+            "peso": 10,
+            "procesamiento": 342,
+            "tiempolimite": 1368,
+            "Tardanza": 445172,
+            "TiempoAcabado": 446540
+        },
+        "999": {
+            "peso": 38,
+            "procesamiento": 182,
+            "tiempolimite": 1368,
+            "Tardanza": 326060,
+            "TiempoAcabado": 327428
+        },
+        "113": {
+            "peso": 48,
+            "procesamiento": 554,
+            "tiempolimite": 1369,
+            "Tardanza": 282142,
+            "TiempoAcabado": 283511
+        },
+        "883": {
+            "peso": 71,
+            "procesamiento": 784,
+            "tiempolimite": 1370,
+            "Tardanza": 177061,
+            "TiempoAcabado": 178431
+        },
+        "913": {
+            "peso": 92,
+            "procesamiento": 420,
+            "tiempolimite": 1370,
+            "Tardanza": 87512,
+            "TiempoAcabado": 88882
+        },
+        "7": {
+            "peso": 1,
+            "procesamiento": 277,
+            "tiempolimite": 1371,
+            "Tardanza": 495990,
+            "TiempoAcabado": 497361
+        },
+        "83": {
+            "peso": 24,
+            "procesamiento": 250,
+            "tiempolimite": 1371,
+            "Tardanza": 382205,
+            "TiempoAcabado": 383576
+        },
+        "141": {
+            "peso": 23,
+            "procesamiento": 91,
+            "tiempolimite": 1371,
+            "Tardanza": 384256,
+            "TiempoAcabado": 385627
+        },
+        "318": {
+            "peso": 29,
+            "procesamiento": 480,
+            "tiempolimite": 1371,
+            "Tardanza": 368780,
+            "TiempoAcabado": 370151
+        },
+        "53": {
+            "peso": 39,
+            "procesamiento": 129,
+            "tiempolimite": 1374,
+            "Tardanza": 320190,
+            "TiempoAcabado": 321564
+        },
+        "108": {
+            "peso": 49,
+            "procesamiento": 898,
+            "tiempolimite": 1375,
+            "Tardanza": 278273,
+            "TiempoAcabado": 279648
+        },
+        "138": {
+            "peso": 72,
+            "procesamiento": 479,
+            "tiempolimite": 1375,
+            "Tardanza": 173864,
+            "TiempoAcabado": 175239
+        },
+        "526": {
+            "peso": 74,
+            "procesamiento": 594,
+            "tiempolimite": 1375,
+            "Tardanza": 165559,
+            "TiempoAcabado": 166934
+        },
+        "808": {
+            "peso": 81,
+            "procesamiento": 675,
+            "tiempolimite": 1375,
+            "Tardanza": 131802,
+            "TiempoAcabado": 133177
+        },
+        "454": {
+            "peso": 42,
+            "procesamiento": 70,
+            "tiempolimite": 1376,
+            "Tardanza": 304525,
+            "TiempoAcabado": 305901
+        },
+        "267": {
+            "peso": 58,
+            "procesamiento": 145,
+            "tiempolimite": 1377,
+            "Tardanza": 237633,
+            "TiempoAcabado": 239010
+        },
+        "416": {
+            "peso": 46,
+            "procesamiento": 202,
+            "tiempolimite": 1377,
+            "Tardanza": 290205,
+            "TiempoAcabado": 291582
+        },
+        "90": {
+            "peso": 7,
+            "procesamiento": 72,
+            "tiempolimite": 1378,
+            "Tardanza": 461975,
+            "TiempoAcabado": 463353
+        },
+        "365": {
+            "peso": 100,
+            "procesamiento": 18,
+            "tiempolimite": 1378,
+            "Tardanza": 49293,
+            "TiempoAcabado": 50671
+        },
+        "707": {
+            "peso": 73,
+            "procesamiento": 517,
+            "tiempolimite": 1378,
+            "Tardanza": 170018,
+            "TiempoAcabado": 171396
+        },
+        "207": {
+            "peso": 73,
+            "procesamiento": 995,
+            "tiempolimite": 1379,
+            "Tardanza": 171012,
+            "TiempoAcabado": 172391
+        },
+        "497": {
+            "peso": 77,
+            "procesamiento": 320,
+            "tiempolimite": 1379,
+            "Tardanza": 154427,
+            "TiempoAcabado": 155806
+        },
+        "817": {
+            "peso": 81,
+            "procesamiento": 690,
+            "tiempolimite": 1379,
+            "Tardanza": 133325,
+            "TiempoAcabado": 134704
+        },
+        "973": {
+            "peso": 54,
+            "procesamiento": 327,
+            "tiempolimite": 1379,
+            "Tardanza": 253431,
+            "TiempoAcabado": 254810
+        },
+        "547": {
+            "peso": 37,
+            "procesamiento": 303,
+            "tiempolimite": 1380,
+            "Tardanza": 329029,
+            "TiempoAcabado": 330409
+        },
+        "548": {
+            "peso": 29,
+            "procesamiento": 253,
+            "tiempolimite": 1380,
+            "Tardanza": 369024,
+            "TiempoAcabado": 370404
+        },
+        "142": {
+            "peso": 89,
+            "procesamiento": 729,
+            "tiempolimite": 1381,
+            "Tardanza": 105093,
+            "TiempoAcabado": 106474
+        },
+        "228": {
+            "peso": 97,
+            "procesamiento": 648,
+            "tiempolimite": 1381,
+            "Tardanza": 68382,
+            "TiempoAcabado": 69763
+        },
+        "160": {
+            "peso": 87,
+            "procesamiento": 787,
+            "tiempolimite": 1382,
+            "Tardanza": 112794,
+            "TiempoAcabado": 114176
+        },
+        "264": {
+            "peso": 69,
+            "procesamiento": 546,
+            "tiempolimite": 1382,
+            "Tardanza": 194672,
+            "TiempoAcabado": 196054
+        },
+        "737": {
+            "peso": 97,
+            "procesamiento": 344,
+            "tiempolimite": 1382,
+            "Tardanza": 68725,
+            "TiempoAcabado": 70107
+        },
+        "290": {
+            "peso": 90,
+            "procesamiento": 574,
+            "tiempolimite": 1383,
+            "Tardanza": 98693,
+            "TiempoAcabado": 100076
+        },
+        "293": {
+            "peso": 17,
+            "procesamiento": 498,
+            "tiempolimite": 1383,
+            "Tardanza": 410972,
+            "TiempoAcabado": 412355
+        },
+        "489": {
+            "peso": 80,
+            "procesamiento": 828,
+            "tiempolimite": 1383,
+            "Tardanza": 139364,
+            "TiempoAcabado": 140747
+        },
+        "44": {
+            "peso": 30,
+            "procesamiento": 701,
+            "tiempolimite": 1384,
+            "Tardanza": 364537,
+            "TiempoAcabado": 365921
+        },
+        "321": {
+            "peso": 22,
+            "procesamiento": 501,
+            "tiempolimite": 1384,
+            "Tardanza": 389118,
+            "TiempoAcabado": 390502
+        },
+        "469": {
+            "peso": 40,
+            "procesamiento": 61,
+            "tiempolimite": 1384,
+            "Tardanza": 317349,
+            "TiempoAcabado": 318733
+        },
+        "103": {
+            "peso": 100,
+            "procesamiento": 766,
+            "tiempolimite": 1385,
+            "Tardanza": 53637,
+            "TiempoAcabado": 55022
+        },
+        "241": {
+            "peso": 30,
+            "procesamiento": 497,
+            "tiempolimite": 1385,
+            "Tardanza": 365033,
+            "TiempoAcabado": 366418
+        },
+        "582": {
+            "peso": 48,
+            "procesamiento": 46,
+            "tiempolimite": 1385,
+            "Tardanza": 285980,
+            "TiempoAcabado": 287365
+        },
+        "176": {
+            "peso": 26,
+            "procesamiento": 752,
+            "tiempolimite": 1387,
+            "Tardanza": 374803,
+            "TiempoAcabado": 376190
+        },
+        "604": {
+            "peso": 81,
+            "procesamiento": 87,
+            "tiempolimite": 1387,
+            "Tardanza": 133820,
+            "TiempoAcabado": 135207
+        },
+        "835": {
+            "peso": 69,
+            "procesamiento": 370,
+            "tiempolimite": 1387,
+            "Tardanza": 195805,
+            "TiempoAcabado": 197192
+        },
+        "861": {
+            "peso": 23,
+            "procesamiento": 711,
+            "tiempolimite": 1387,
+            "Tardanza": 386558,
+            "TiempoAcabado": 387945
+        },
+        "948": {
+            "peso": 94,
+            "procesamiento": 878,
+            "tiempolimite": 1388,
+            "Tardanza": 85165,
+            "TiempoAcabado": 86553
+        },
+        "974": {
+            "peso": 50,
+            "procesamiento": 883,
+            "tiempolimite": 1388,
+            "Tardanza": 275069,
+            "TiempoAcabado": 276457
+        },
+        "203": {
+            "peso": 39,
+            "procesamiento": 914,
+            "tiempolimite": 1389,
+            "Tardanza": 323760,
+            "TiempoAcabado": 325149
+        },
+        "855": {
+            "peso": 56,
+            "procesamiento": 262,
+            "tiempolimite": 1389,
+            "Tardanza": 250139,
+            "TiempoAcabado": 251528
+        },
+        "12": {
+            "peso": 34,
+            "procesamiento": 924,
+            "tiempolimite": 1390,
+            "Tardanza": 344762,
+            "TiempoAcabado": 346152
+        },
+        "257": {
+            "peso": 34,
+            "procesamiento": 222,
+            "tiempolimite": 1390,
+            "Tardanza": 344984,
+            "TiempoAcabado": 346374
+        },
+        "306": {
+            "peso": 80,
+            "procesamiento": 650,
+            "tiempolimite": 1390,
+            "Tardanza": 143447,
+            "TiempoAcabado": 144837
+        },
+        "361": {
+            "peso": 54,
+            "procesamiento": 702,
+            "tiempolimite": 1391,
+            "Tardanza": 256334,
+            "TiempoAcabado": 257725
+        },
+        "924": {
+            "peso": 78,
+            "procesamiento": 187,
+            "tiempolimite": 1391,
+            "Tardanza": 153164,
+            "TiempoAcabado": 154555
+        },
+        "331": {
+            "peso": 96,
+            "procesamiento": 306,
+            "tiempolimite": 1392,
+            "Tardanza": 77379,
+            "TiempoAcabado": 78771
+        },
+        "347": {
+            "peso": 44,
+            "procesamiento": 470,
+            "tiempolimite": 1392,
+            "Tardanza": 298673,
+            "TiempoAcabado": 300065
+        },
+        "410": {
+            "peso": 61,
+            "procesamiento": 888,
+            "tiempolimite": 1392,
+            "Tardanza": 226181,
+            "TiempoAcabado": 227573
+        },
+        "696": {
+            "peso": 36,
+            "procesamiento": 735,
+            "tiempolimite": 1392,
+            "Tardanza": 333377,
+            "TiempoAcabado": 334769
+        },
+        "581": {
+            "peso": 97,
+            "procesamiento": 905,
+            "tiempolimite": 1393,
+            "Tardanza": 72870,
+            "TiempoAcabado": 74263
+        },
+        "196": {
+            "peso": 81,
+            "procesamiento": 98,
+            "tiempolimite": 1394,
+            "Tardanza": 135136,
+            "TiempoAcabado": 136530
+        },
+        "475": {
+            "peso": 12,
+            "procesamiento": 534,
+            "tiempolimite": 1394,
+            "Tardanza": 438520,
+            "TiempoAcabado": 439914
+        },
+        "659": {
+            "peso": 36,
+            "procesamiento": 42,
+            "tiempolimite": 1394,
+            "Tardanza": 333417,
+            "TiempoAcabado": 334811
+        },
+        "978": {
+            "peso": 71,
+            "procesamiento": 212,
+            "tiempolimite": 1394,
+            "Tardanza": 183357,
+            "TiempoAcabado": 184751
+        },
+        "661": {
+            "peso": 17,
+            "procesamiento": 774,
+            "tiempolimite": 1395,
+            "Tardanza": 413160,
+            "TiempoAcabado": 414555
+        },
+        "700": {
+            "peso": 88,
+            "procesamiento": 649,
+            "tiempolimite": 1395,
+            "Tardanza": 111582,
+            "TiempoAcabado": 112977
+        },
+        "764": {
+            "peso": 83,
+            "procesamiento": 852,
+            "tiempolimite": 1395,
+            "Tardanza": 129167,
+            "TiempoAcabado": 130562
+        },
+        "769": {
+            "peso": 19,
+            "procesamiento": 418,
+            "tiempolimite": 1395,
+            "Tardanza": 398806,
+            "TiempoAcabado": 400201
+        },
+        "29": {
+            "peso": 37,
+            "procesamiento": 91,
+            "tiempolimite": 1397,
+            "Tardanza": 331947,
+            "TiempoAcabado": 333344
+        },
+        "542": {
+            "peso": 52,
+            "procesamiento": 239,
+            "tiempolimite": 1397,
+            "Tardanza": 263474,
+            "TiempoAcabado": 264871
+        },
+        "564": {
+            "peso": 40,
+            "procesamiento": 858,
+            "tiempolimite": 1397,
+            "Tardanza": 318874,
+            "TiempoAcabado": 320271
+        },
+        "857": {
+            "peso": 1,
+            "procesamiento": 659,
+            "tiempolimite": 1398,
+            "Tardanza": 496622,
+            "TiempoAcabado": 498020
+        },
+        "562": {
+            "peso": 17,
+            "procesamiento": 399,
+            "tiempolimite": 1399,
+            "Tardanza": 414892,
+            "TiempoAcabado": 416291
+        },
+        "735": {
+            "peso": 73,
+            "procesamiento": 337,
+            "tiempolimite": 1399,
+            "Tardanza": 174575,
+            "TiempoAcabado": 175974
+        },
+        "859": {
+            "peso": 7,
+            "procesamiento": 587,
+            "tiempolimite": 1399,
+            "Tardanza": 463202,
+            "TiempoAcabado": 464601
+        },
+        "886": {
+            "peso": 58,
+            "procesamiento": 979,
+            "tiempolimite": 1400,
+            "Tardanza": 243640,
+            "TiempoAcabado": 245040
+        },
+        "1000": {
+            "peso": 17,
+            "procesamiento": 16,
+            "tiempolimite": 1400,
+            "Tardanza": 414907,
+            "TiempoAcabado": 416307
+        }
+    },
+    "TTP": 12151567158
+}
